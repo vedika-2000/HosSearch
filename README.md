@@ -1,4 +1,5 @@
 # HosSearch
+----
 
 #### A geo-informatics project that suggests and recommends nearby hospitals to an user based on their current location. 
 
@@ -19,3 +20,7 @@ Current features:
 Future scope (things we hope of including and revamping our website with):
 - A custom search bar which would take typed in location of the user to search for hospitals in some other vicinity
 - The map should point out (mark) all the locations displayed in the list and their distance from the current location, and not just display the whole map idly
+
+----
+
+Feel free to clone the repository and make changes. Report issues if you face any. If you want to make a pull request, we are open and accepting. 
