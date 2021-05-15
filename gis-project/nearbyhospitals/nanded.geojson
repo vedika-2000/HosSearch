@@ -1,0 +1,3055 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-05-13T10:30:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043041314",
+        "addr:district": "Nanded",
+        "addr:full": "Vip Road, Iti Corner",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Global Super Speciality Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.306553,
+          19.1684368
+        ]
+      },
+      "id": "node/7043041314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043397901",
+        "addr:district": "Nanded",
+        "addr:full": "Near Hingoli Gate (Under Bridge)",
+        "addr:postcode": "431602",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Godavari Hospital ( Giccm )",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3176132,
+          19.1618072
+        ]
+      },
+      "id": "node/7043397901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7048918872",
+        "addr:district": "Nanded",
+        "addr:full": "Near : Sbi, Opp: Kala Mandir Ghamodia, Doctor's Lane",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Bokare Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3081519,
+          19.157964
+        ]
+      },
+      "id": "node/7048918872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7049673893",
+        "addr:district": "Nanded",
+        "addr:full": "Doctor Lane, Chamodiya Area,Opposite Sbi Bank,Vazirabad",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Toshniwal Chest Hospital Maternity and Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3086345,
+          19.1589189
+        ]
+      },
+      "id": "node/7049673893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050847665",
+        "addr:district": "Nanded",
+        "addr:full": "Lavekar Hospital Subhash Road Vazirabad",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Lavekar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3131105,
+          19.1518923
+        ]
+      },
+      "id": "node/7050847665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7054148418",
+        "addr:district": "Nanded",
+        "addr:full": "Shivajinagar",
+        "addr:postcode": "431602",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Radha Govind Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3045093,
+          19.1617154
+        ]
+      },
+      "id": "node/7054148418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7054243698",
+        "addr:district": "Nanded",
+        "addr:full": "Shivaji Nagar",
+        "addr:postcode": "431602",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Ashwini Hospital and RamaKant Heart Center Pvt.Ltd.",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3047158,
+          19.1612093
+        ]
+      },
+      "id": "node/7054243698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7054809809",
+        "addr:district": "Nanded",
+        "addr:full": "Near Bus Stand,Ghamodiya,Doctors Lane",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Motewar Netrlaya",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3075844,
+          19.1588093
+        ]
+      },
+      "id": "node/7054809809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7062539957",
+        "addr:district": "Nanded",
+        "addr:full": "Borban Goverdhanghat Road, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Mahale Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3079519,
+          19.1516585
+        ]
+      },
+      "id": "node/7062539957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7065820629",
+        "addr:district": "Nanded",
+        "addr:full": "No. 2-9-70, Somesh Colony,Behind Kala Mandir",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Tungenwar Orthopaedic and Maternity Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3070078,
+          19.1561901
+        ]
+      },
+      "id": "node/7065820629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7066505806",
+        "addr:district": "Nanded",
+        "addr:full": "Near Shivaj Putla",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Wadekar Hospital, Nanded",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3100252,
+          19.1561331
+        ]
+      },
+      "id": "node/7066505806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7067261129",
+        "addr:district": "Nanded",
+        "addr:full": "Borban Factory Area,Govardhan Ghat Road",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Marathawada Bal Rugnalya",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3101547,
+          19.1528348
+        ]
+      },
+      "id": "node/7067261129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7070543975",
+        "addr:district": "Nanded",
+        "addr:full": "Doctors Lane",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr Komawar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.306995,
+          19.1589429
+        ]
+      },
+      "id": "node/7070543975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7073651561",
+        "addr:district": "Nanded",
+        "addr:full": "1,2 & 3, Doctors Lane",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Kadam Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3081812,
+          19.1570554
+        ]
+      },
+      "id": "node/7073651561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7075571871",
+        "addr:district": "Nanded",
+        "addr:full": "Near Peoples High School, Gokul Nagar",
+        "addr:postcode": "431602",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Gargi Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.302049,
+          19.1620979
+        ]
+      },
+      "id": "node/7075571871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7076379886",
+        "addr:district": "Nanded",
+        "addr:full": "Doctor's Plaza, Doctor's Lane ,Near Bus Stand & Railway Station",
+        "addr:postcode": "431731",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Lotus Hospital and Critical Care Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.308951,
+          19.1582411
+        ]
+      },
+      "id": "node/7076379886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7076557569",
+        "addr:district": "Nanded",
+        "addr:full": "Aarif Sir's Account Classes, Dr Lane Rd Number 1, Khadakpura",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Jayashree Ent and Maternity Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3088706,
+          19.1577014
+        ]
+      },
+      "id": "node/7076557569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7079411336",
+        "addr:district": "Nanded",
+        "addr:full": "Somesh Colony, Behind Kalamandir",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Vishwa Institute Urology and Kidney Centre",
+        "source": "OpenGovernmentData",
+        "website": "https://www.vishwaurology.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3066255,
+          19.1551133
+        ]
+      },
+      "id": "node/7079411336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7080413691",
+        "addr:district": "Nanded",
+        "addr:full": "Near Lokmanya Mangal Karyalay,Hingoli Gate",
+        "addr:postcode": "431602",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Samarth Orthopedic and Accident Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3191146,
+          19.1624666
+        ]
+      },
+      "id": "node/7080413691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081227359",
+        "addr:district": "Nanded",
+        "addr:full": "Goverdhan Ghat Road",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Kardile Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3092648,
+          19.1502029
+        ]
+      },
+      "id": "node/7081227359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085422891",
+        "addr:district": "Nanded",
+        "addr:full": "V.I.P. Road, Visen Nagar",
+        "addr:postcode": "431602",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Shri Venkatadri Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3146601,
+          19.1649058
+        ]
+      },
+      "id": "node/7085422891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7210907282",
+        "addr:district": "Nanded",
+        "addr:full": "Hingoli Gate Flyover, Samrat Nagar, Hyder Bagh,Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Max Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.316343,
+          19.1616063
+        ]
+      },
+      "id": "node/7210907282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7210920487",
+        "addr:district": "Nanded",
+        "addr:full": "Hingoli Gate Subway Road, Ashraf Nagar, Hyder Bagh, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Cure Max Multi_Speciality Hospital And Critical Care Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.316378,
+          19.1617475
+        ]
+      },
+      "id": "node/7210920487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7210920492",
+        "addr:district": "Nanded",
+        "addr:full": "Hingoli Gate Flyover,nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sharma Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3170365,
+          19.1617948
+        ]
+      },
+      "id": "node/7210920492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7210920497",
+        "addr:district": "Nanded",
+        "addr:full": "NearMseb Office, Hingoli Gate, Ashraf Nagar,nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Shriniwas Orthopaedic Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3168407,
+          19.161792
+        ]
+      },
+      "id": "node/7210920497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7210920502",
+        "addr:district": "Nanded",
+        "addr:full": "Opposite Mseb Office New Mondha",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Samarth Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3168754,
+          19.1624466
+        ]
+      },
+      "id": "node/7210920502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7225067131",
+        "addr:district": "Nanded",
+        "addr:postcode": "431606",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Vishnupuri Gramin Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2879096,
+          19.1084415
+        ]
+      },
+      "id": "node/7225067131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7225067193",
+        "addr:district": "Nanded",
+        "addr:full": "Opp. Pharmacy College, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "description": "Women Hospital",
+        "name": "Women Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.309114,
+          19.175827
+        ]
+      },
+      "id": "node/7225067193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7225067228",
+        "addr:district": "Nanded",
+        "addr:full": "Nanded-Malegaon Road, Near Employment Office, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "NDMC Jangamwadi Government Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.302463,
+          19.180153
+        ]
+      },
+      "id": "node/7225067228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7225067283",
+        "addr:district": "Nanded",
+        "addr:full": "Arab Galli Area, Darbaar Masjid Road, Near Nanded Fort, Nanded",
+        "addr:postcode": "431604",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "NDMC Arabgalli Municipal Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.324738,
+          19.143427
+        ]
+      },
+      "id": "node/7225067283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7225067286",
+        "addr:district": "Nanded",
+        "addr:full": "Vazirabad, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "description": "Medical Colleges Hospital",
+        "name": "Dr Shankarrao Chavan Government Medical College and Hospital, Vazirabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.313095,
+          19.156482
+        ]
+      },
+      "id": "node/7225067286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7605276552",
+        "addr:district": "Nanded",
+        "addr:full": "Nanded",
+        "addr:postcode": "431603",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Government Hospital, Nanded",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3220992,
+          19.1100465
+        ]
+      },
+      "id": "node/7605276552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7607937766",
+        "addr:district": "Nanded",
+        "addr:full": "Pahar Ganj",
+        "addr:postcode": "431603",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Government Hospital, Kautha",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3095579,
+          19.1423055
+        ]
+      },
+      "id": "node/7607937766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424672",
+        "addr:district": "Nanded",
+        "addr:full": "Doctor Lane Borban, Vazirabad, Nanded-Waghala",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Marathwada Children Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085905,
+          19.1512345
+        ]
+      },
+      "id": "node/7634424672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424673",
+        "addr:district": "Nanded",
+        "addr:full": "Somesh Colony, Behind Kalamandir, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Motewar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.307015,
+          19.156572
+        ]
+      },
+      "id": "node/7634424673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424674",
+        "addr:district": "Nanded",
+        "addr:full": "Chikhalwadi, Hyder Bagh, Dashmesh Nagar, Dulleshah Raheman Nagar, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.314747,
+          19.15376
+        ]
+      },
+      "id": "node/7634424674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424675",
+        "addr:district": "Nanded",
+        "addr:full": "Ganeem Pura, Khadakpura, Nanded",
+        "addr:postcode": "431604",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nidan Singh Memorial Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3152162,
+          19.1480054
+        ]
+      },
+      "id": "node/7634424675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424676",
+        "addr:district": "Nanded",
+        "addr:full": "Ashraf Nagar, Hingoli Gate, Opp. Samarth Hospital, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sahyadri Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.316643,
+          19.162154
+        ]
+      },
+      "id": "node/7634424676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424677",
+        "addr:district": "Nanded",
+        "addr:full": "Samrat Nagar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Jija Mata Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3160923,
+          19.1516681
+        ]
+      },
+      "id": "node/7634424677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424679",
+        "addr:district": "Nanded",
+        "addr:full": "Mill Gate Road, Beside Bus Stand, Kalamandir, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Patil Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.306463,
+          19.157936
+        ]
+      },
+      "id": "node/7634424679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424680",
+        "addr:district": "Nanded",
+        "addr:full": "Behind S. P. Office, Police Head Quaters Road, Vazirabad, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Arham Hospital Maternity & Surgical Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3083028,
+          19.1539523
+        ]
+      },
+      "id": "node/7634424680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424681",
+        "addr:district": "Nanded",
+        "addr:full": "CIDCO Colony, Nanded",
+        "addr:postcode": "431603",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Ashok Bhise Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.323613,
+          19.1103523
+        ]
+      },
+      "id": "node/7634424681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424684",
+        "addr:district": "Nanded",
+        "addr:full": "Somesh Colony, Khadakpura, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Rayat General Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.305928,
+          19.155925
+        ]
+      },
+      "id": "node/7634424684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424686",
+        "addr:district": "Nanded",
+        "addr:full": "Gurudwara Road, Samrat Nagar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. A. P. Deshmukh Kahalekar",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.31584,
+          19.151792
+        ]
+      },
+      "id": "node/7634424686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424688",
+        "addr:district": "Nanded",
+        "addr:full": "Vazirabad, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. M.A.Gaffar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3097008,
+          19.1526995
+        ]
+      },
+      "id": "node/7634424688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424689",
+        "addr:district": "Nanded",
+        "addr:full": "Chikhalwadi to Gurudwara Road, Samrat Nagar, Hyder Bagh, Harsh Nagar, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ardhapurkar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.315139,
+          19.151406
+        ]
+      },
+      "id": "node/7634424689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424696",
+        "addr:district": "Nanded",
+        "addr:full": "Beside Iqra School, Degloor Naka Nanded",
+        "addr:postcode": "431604",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Raziya Memorial Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.329597,
+          19.1528109
+        ]
+      },
+      "id": "node/7634424696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424697",
+        "addr:district": "Nanded",
+        "addr:full": "NTC Mill Road, Khadakpura, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mathurai Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3049299,
+          19.1575492
+        ]
+      },
+      "id": "node/7634424697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424698",
+        "addr:district": "Nanded",
+        "addr:full": "Mohammed Ali Road, Hyder Bagh, Dashmesh Nagar, Saibaba Chowk, Nanded",
+        "addr:postcode": "431604",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Goda Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3236343,
+          19.1494332
+        ]
+      },
+      "id": "node/7634424698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424699",
+        "addr:district": "Nanded",
+        "addr:full": "Besides Hanuman Mandir, Opp Water Tank, Wasarni, Kautha, Nanded",
+        "addr:postcode": "431603",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Krushnai Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3204612,
+          19.1320644
+        ]
+      },
+      "id": "node/7634424699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424700",
+        "addr:district": "Nanded",
+        "addr:full": "Aanabhau, Sathi Chowk, Samrat Nagar, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ankur Super-Speciality Women Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3198726,
+          19.1622231
+        ]
+      },
+      "id": "node/7634424700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424701",
+        "addr:district": "Nanded",
+        "addr:full": "Behind Kala Mandir, Near Nehru English School, Somesh colony, Khadakpura, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Netralaya Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.306508,
+          19.154975
+        ]
+      },
+      "id": "node/7634424701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424702",
+        "addr:district": "Nanded",
+        "addr:full": "Arab Galli Area, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded",
+        "addr:postcode": "431604",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ansari Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.325184,
+          19.1444092
+        ]
+      },
+      "id": "node/7634424702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424704",
+        "addr:district": "Nanded",
+        "addr:full": "Itwara Road, Near kela Market, Near Solanki Brothers, Nanded",
+        "addr:postcode": "431604",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Deshmukh Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3242074,
+          19.1488467
+        ]
+      },
+      "id": "node/7634424704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424707",
+        "addr:district": "Nanded",
+        "addr:full": "Doctor Lane Road, Number 2, Railway Station Road, Opposite SBI ATM, Khadakpura, Nanded-Waghala,",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Rehman Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3088177,
+          19.1591059
+        ]
+      },
+      "id": "node/7634424707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424708",
+        "addr:district": "Nanded",
+        "addr:full": "Chikhalwadi Corner, Samrat Nagar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shusurusha Hospital ICSI & Test Tube Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3147142,
+          19.1528035
+        ]
+      },
+      "id": "node/7634424708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424709",
+        "addr:district": "Nanded",
+        "addr:full": "Vazirabad, Nanded-Waghala",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bajaj Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3104517,
+          19.1526299
+        ]
+      },
+      "id": "node/7634424709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424710",
+        "addr:district": "Nanded",
+        "addr:full": "Doctor Lane, Khadakpura, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Patil Eye Hospital and Maternity Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.308388,
+          19.157743
+        ]
+      },
+      "id": "node/7634424710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424712",
+        "addr:district": "Nanded",
+        "addr:full": "Ghamodiya, Doctor Lane, Nanded-Waghala",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ashtvinayak Hospital and ICU",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3086669,
+          19.1584868
+        ]
+      },
+      "id": "node/7634424712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424713",
+        "addr:district": "Nanded",
+        "addr:full": "Gavalipura, Railway Station Road, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Deglurkar Hospital & Suyog Maternity Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3107968,
+          19.1578167
+        ]
+      },
+      "id": "node/7634424713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424714",
+        "addr:district": "Nanded",
+        "addr:full": "Gowardhan Ghat Bridge Road, MHADA Colony, Navakotha, Nanded",
+        "addr:postcode": "431603",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "YashoSai Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3052956,
+          19.1348301
+        ]
+      },
+      "id": "node/7634424714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424716",
+        "addr:district": "Nanded",
+        "addr:full": "Hingoli Gate, Opp. M.S.E.B Office, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mala Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.317455,
+          19.163688
+        ]
+      },
+      "id": "node/7634424716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424717",
+        "addr:district": "Nanded",
+        "addr:full": "Ghamodia Compound, Doctor Line Road, Opp. Kalamandir, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Umrekar Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.307799,
+          19.158047
+        ]
+      },
+      "id": "node/7634424717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424718",
+        "addr:district": "Nanded",
+        "addr:full": "Samrat Nagar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Swami Vivekanand Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3180888,
+          19.1647284
+        ]
+      },
+      "id": "node/7634424718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424722",
+        "addr:district": "Nanded",
+        "addr:full": "Doctor Lane Borban, Vazirabad, Nanded-Waghala",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Galaxy Hospital - Centre for GI & liver diseases",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3079834,
+          19.152335
+        ]
+      },
+      "id": "node/7634424722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424723",
+        "addr:district": "Nanded",
+        "addr:full": "Behind Kalamandir, Somesh colony, Khadakpura, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Santosh Malpani Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3059721,
+          19.1568706
+        ]
+      },
+      "id": "node/7634424723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424724",
+        "addr:district": "Nanded",
+        "addr:full": "Railway Station Road, Vazirabad, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "S.G.G.S Memorial Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3117703,
+          19.1553972
+        ]
+      },
+      "id": "node/7634424724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424725",
+        "addr:district": "Nanded",
+        "addr:full": "Harsh Nagar, Hyder Bagh, Dashmesh Nagar, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dashmesh Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.317018,
+          19.155569
+        ]
+      },
+      "id": "node/7634424725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424726",
+        "addr:district": "Nanded",
+        "addr:full": "Doctor Lane Borban, Vazirabad, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gayakwad Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3083445,
+          19.1509416
+        ]
+      },
+      "id": "node/7634424726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424727",
+        "addr:district": "Nanded",
+        "addr:full": "Gowardhan Ghat, Bridge Road, Vazirabad, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bhaskar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3099237,
+          19.1524681
+        ]
+      },
+      "id": "node/7634424727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424729",
+        "addr:district": "Nanded",
+        "addr:full": "Doctor Lane Borban, Vazirabad, Nanded-Waghala",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Yogeshwari Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3087808,
+          19.152223
+        ]
+      },
+      "id": "node/7634424729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424730",
+        "addr:district": "Nanded",
+        "addr:full": "Borban Factory Area, Vazirabad, Nanded",
+        "addr:postcode": "431604",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Omsai Surgical and Leproscopy Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3087515,
+          19.1504038
+        ]
+      },
+      "id": "node/7634424730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424732",
+        "addr:district": "Nanded",
+        "addr:full": "Opp Zilla Parishad, Old Chunhi Naka, Infront of Station, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Apeksha Dental Hospital and Superspeciality Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.310505,
+          19.158179
+        ]
+      },
+      "id": "node/7634424732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424733",
+        "addr:district": "Nanded",
+        "addr:full": "Vazirabad, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Renuka Eye Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3109069,
+          19.1520827
+        ]
+      },
+      "id": "node/7634424733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424734",
+        "addr:district": "Nanded",
+        "addr:full": "Tipu Sultan Road, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Saqueb Seva Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3281975,
+          19.1574129
+        ]
+      },
+      "id": "node/7634424734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424738",
+        "addr:district": "Nanded",
+        "addr:full": "Doctor Line Road, No.1, Khadakpura, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Narlawar Vishal Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.309335,
+          19.159075
+        ]
+      },
+      "id": "node/7634424738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424739",
+        "addr:district": "Nanded",
+        "addr:full": "Anham Somesh Colony, Kalamandir, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mangalmurti Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.307806,
+          19.158627
+        ]
+      },
+      "id": "node/7634424739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424741",
+        "addr:district": "Nanded",
+        "addr:full": "Doctor Lane Road, Number 1, Doctor Lane, Khadakpura, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shri Chidrawar Super Specality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.308593,
+          19.15791
+        ]
+      },
+      "id": "node/7634424741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424743",
+        "addr:district": "Nanded",
+        "addr:full": "Near Hotel Gokul, Khadakpura, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Rayet Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.307919,
+          19.155136
+        ]
+      },
+      "id": "node/7634424743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424744",
+        "addr:district": "Nanded",
+        "addr:full": "Doctor Line Borban, Vazirabad, Nanded-Waghala",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Vighnharta Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3089281,
+          19.1512793
+        ]
+      },
+      "id": "node/7634424744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424747",
+        "addr:district": "Nanded",
+        "addr:full": "Baba Seth Complex, Opp Police Chowki, Madina Chowk, Degloor Road, Nanded-Waghala",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shams Hospital and Maternity Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3313175,
+          19.1517437
+        ]
+      },
+      "id": "node/7634424747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424748",
+        "addr:district": "Nanded",
+        "addr:full": "Behind District Court, Near Andhra Samiti School, Gawalipura, Khadakpura, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Monark Cancer Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.312,
+          19.157568
+        ]
+      },
+      "id": "node/7634424748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424749",
+        "addr:district": "Nanded",
+        "addr:full": "Besides Marathwada Bai Rugnalaya Borban Area, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Katte Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085592,
+          19.15109
+        ]
+      },
+      "id": "node/7634424749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424750",
+        "addr:district": "Nanded",
+        "addr:full": "Chikhalwadi, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Perke Hospital and Maternity Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3153292,
+          19.1515622
+        ]
+      },
+      "id": "node/7634424750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424751",
+        "addr:district": "Nanded",
+        "addr:full": "Tuppa Wadgaon, Tuppa",
+        "addr:postcode": "431603",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Jaundice Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.358352,
+          19.102134
+        ]
+      },
+      "id": "node/7634424751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424753",
+        "addr:district": "Nanded",
+        "addr:full": "Railway Station - Bafna Road, Khadakpura, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Railway Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.315151,
+          19.160153
+        ]
+      },
+      "id": "node/7634424753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424757",
+        "addr:district": "Nanded",
+        "addr:full": "Dilipsingh Colony, Vazirabad, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sajne Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.309636,
+          19.1517755
+        ]
+      },
+      "id": "node/7634424757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424758",
+        "addr:district": "Nanded",
+        "addr:full": "Samratnagar/ Duttanagar, Near Anna Bhau Sathe Chowk, Nanded-Waghala",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Abhyuday's Lifecare Superspeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3190715,
+          19.1622615
+        ]
+      },
+      "id": "node/7634424758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424759",
+        "addr:district": "Nanded",
+        "addr:full": "Doctor's Lane, Khadakpura, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bannalikar Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3072857,
+          19.1584257
+        ]
+      },
+      "id": "node/7634424759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424760",
+        "addr:district": "Nanded",
+        "addr:full": "Vazirabad Square, Behind SP Office, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Jeevan Jyoti Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3091705,
+          19.1540321
+        ]
+      },
+      "id": "node/7634424760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424763",
+        "addr:district": "Nanded",
+        "addr:full": "Doctor Lane, Khadakpura, Nanded-Waghala",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sanvedana Skin Care Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3074618,
+          19.1589457
+        ]
+      },
+      "id": "node/7634424763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424769",
+        "addr:district": "Nanded",
+        "addr:full": "Shivaji Road, Dilipsingh Colony, Vazirabad, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mamidwar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3111285,
+          19.1520955
+        ]
+      },
+      "id": "node/7634424769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7634424770",
+        "addr:district": "Nanded",
+        "addr:full": "Itwara Bazar Road, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded",
+        "addr:postcode": "431604",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Quadri Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.325204,
+          19.147492
+        ]
+      },
+      "id": "node/7634424770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002010",
+        "addr:district": "Nanded",
+        "addr:full": "Vivek Nagar Corner, Shivaji Nagar Nanded, Near Shri Nagar",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sharada Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3041161,
+          19.1758422
+        ]
+      },
+      "id": "node/7635002010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002011",
+        "addr:district": "Nanded",
+        "addr:full": "Yeshwant Nagar, Ganesh Nagar, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Kesarle Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.296759,
+          19.1720694
+        ]
+      },
+      "id": "node/7635002011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002013",
+        "addr:district": "Nanded",
+        "addr:full": "Lalbadi, Shrawasti Nagar, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Kalambkar's Sushroot Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3023891,
+          19.1613548
+        ]
+      },
+      "id": "node/7635002013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002014",
+        "addr:district": "Nanded",
+        "addr:full": "Shivaji Nagar, Near Hanuman Mandir, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dhondge Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.304319,
+          19.162177
+        ]
+      },
+      "id": "node/7635002014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002018",
+        "addr:district": "Nanded",
+        "addr:full": "Opp Bhagya Nagar, Near Home Guard Office, Bhagya Nagar, Nanded",
+        "addr:postcode": "431000",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Kadam Hospital and Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.309913,
+          19.176553
+        ]
+      },
+      "id": "node/7635002018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002021",
+        "addr:district": "Nanded",
+        "addr:full": "Lalbadi, Shrawasti Nagar, Nanded-Waghala",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Chounde Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3044972,
+          19.1610739
+        ]
+      },
+      "id": "node/7635002021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002023",
+        "addr:district": "Nanded",
+        "addr:full": "Taroda Nakka Road, Ashok Nagar Road, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Srinath Prasutigruh Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.302801,
+          19.181231
+        ]
+      },
+      "id": "node/7635002023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002024",
+        "addr:district": "Nanded",
+        "addr:full": "Shivaji Road, Shivaji Nagar Nai Abaadi, Vishnu Nagar, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dagadiya Dental Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.305655,
+          19.16158
+        ]
+      },
+      "id": "node/7635002024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002030",
+        "addr:district": "Nanded",
+        "addr:full": "Maharashtra Gramin Bank, Near Manik Nagar, Chaitanya Nagar, Taroda Bk",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gajanan Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.305179,
+          19.1848524
+        ]
+      },
+      "id": "node/7635002030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002031",
+        "addr:district": "Nanded",
+        "addr:full": "Wadiya, Shivaji Putala, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bhagwati Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.305161,
+          19.1609476
+        ]
+      },
+      "id": "node/7635002031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002034",
+        "addr:district": "Nanded",
+        "addr:full": "Sadbavana Marga, Vasnat Nagar, Nanded",
+        "addr:postcode": "431603",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Durga Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3157702,
+          19.170741
+        ]
+      },
+      "id": "node/7635002034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002036",
+        "addr:district": "Nanded",
+        "addr:full": "Shivaji Nagar Lalbadi, Mahavir Society, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Radhika Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3010512,
+          19.1640257
+        ]
+      },
+      "id": "node/7635002036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002037",
+        "addr:district": "Nanded",
+        "addr:full": "Sanmitra Colony, Opp. Sinchan Bhawan Gate No. 2, Regional Workshop, Jangamwadi Road, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Maher Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.303191,
+          19.18121
+        ]
+      },
+      "id": "node/7635002037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002039",
+        "addr:district": "Nanded",
+        "addr:full": "Mahavir Society Road, Shivaji Road, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "City Hospital Super Speciality Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3018575,
+          19.16224
+        ]
+      },
+      "id": "node/7635002039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002041",
+        "addr:district": "Nanded",
+        "addr:full": "Fasal Nagar, Irrigation Colony, Peer Burhan Nagar, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Pulse Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3047435,
+          19.1829459
+        ]
+      },
+      "id": "node/7635002041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002043",
+        "addr:district": "Nanded",
+        "addr:full": "Airport Road, Manik Nagar, Balaji Nagar, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "City Care Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3070119,
+          19.1843049
+        ]
+      },
+      "id": "node/7635002043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002049",
+        "addr:district": "Nanded",
+        "addr:full": "Near Tathagat Nagar, Ashtvinayak Nagar, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bhanushri Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.29776,
+          19.1920525
+        ]
+      },
+      "id": "node/7635002049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002051",
+        "addr:district": "Nanded",
+        "addr:full": "Ashtvinayak Nagar, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Surya Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3041658,
+          19.1850325
+        ]
+      },
+      "id": "node/7635002051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002052",
+        "addr:district": "Nanded",
+        "addr:full": "Wadiya Factory Area, Shivaji Nagar, Behind Hanuman Mandir, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Kotalwar ENT Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3053063,
+          19.1615303
+        ]
+      },
+      "id": "node/7635002052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002053",
+        "addr:district": "Nanded",
+        "addr:full": "Pawadewadi Road, Farande Nagar Wadi Bk, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Arogya Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2889103,
+          19.1792777
+        ]
+      },
+      "id": "node/7635002053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002054",
+        "addr:district": "Nanded",
+        "addr:full": "Ashtvinayak Nagar, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Jivala Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3007593,
+          19.1854024
+        ]
+      },
+      "id": "node/7635002054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002056",
+        "addr:district": "Nanded",
+        "addr:full": "Bhagya Nagar Road, Hyder Bagh, Dashmesh Nagar, Anand Nagar, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Swami Vivekanand Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.31525,
+          19.1721654
+        ]
+      },
+      "id": "node/7635002056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002058",
+        "addr:district": "Nanded",
+        "addr:full": "Lalbadi, Mahavir Society, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Naarayana Super Speciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3000506,
+          19.1642427
+        ]
+      },
+      "id": "node/7635002058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002060",
+        "addr:district": "Nanded",
+        "addr:full": "Lalbadi, Shrawasti Nagar, Nanded-Waghala",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sanjeevani Critical Care & Trauma Care centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.303511,
+          19.161288
+        ]
+      },
+      "id": "node/7635002060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002064",
+        "addr:district": "Nanded",
+        "addr:full": "Lalbadi, Shrawasti Nagar, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dhonde Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3023378,
+          19.1618391
+        ]
+      },
+      "id": "node/7635002064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002066",
+        "addr:district": "Nanded",
+        "addr:full": "Vishnu Nagar, Nanded-Waghala",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sadbhavana Netralaya Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.308655,
+          19.163261
+        ]
+      },
+      "id": "node/7635002066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002067",
+        "addr:district": "Nanded",
+        "addr:full": "Shrinagar Taroda Naka Road, Prabhat Nagar, Shri Nagar, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Lions Eye Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3025717,
+          19.179741
+        ]
+      },
+      "id": "node/7635002067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002068",
+        "addr:district": "Nanded",
+        "addr:full": "Vishwadeep Nagar, Balaji Nagar, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mansi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085817,
+          19.1906613
+        ]
+      },
+      "id": "node/7635002068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002069",
+        "addr:district": "Nanded",
+        "addr:full": "Waman Nagar, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Tirumala Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2918724,
+          19.1843789
+        ]
+      },
+      "id": "node/7635002069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002071",
+        "addr:district": "Nanded",
+        "addr:full": "Infront Of SBH Workshop Corner, Bhagya Nagar Road, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gitai Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.305864,
+          19.179101
+        ]
+      },
+      "id": "node/7635002071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002074",
+        "addr:district": "Nanded",
+        "addr:full": "Yeshwant Nagar, Nagsen Nagar, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Aai Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2963423,
+          19.1721844
+        ]
+      },
+      "id": "node/7635002074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002076",
+        "addr:district": "Nanded",
+        "addr:full": "Zilla Parishad Coloney, Opp Mahalaxmi Oil Shop, Malegaon Road, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Matruseva Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3005504,
+          19.1864235
+        ]
+      },
+      "id": "node/7635002076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002077",
+        "addr:district": "Nanded",
+        "addr:full": "Nanded Malegaon Road, Sarpanch Nagar, Patijawal Malegaon Road, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Barade Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.298652,
+          19.19077
+        ]
+      },
+      "id": "node/7635002077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002078",
+        "addr:district": "Nanded",
+        "addr:full": "Shivaji Road, Vivek Nagar, Kailash Nagar, Nanded-Waghala",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mandakhalikar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3041998,
+          19.17657
+        ]
+      },
+      "id": "node/7635002078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002083",
+        "addr:district": "Nanded",
+        "addr:full": "Near Chatrapati Chowk, Purna Road, Chatrapati Nagar, Wadi, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Janani Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.291807,
+          19.1858021
+        ]
+      },
+      "id": "node/7635002083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002085",
+        "addr:district": "Nanded",
+        "addr:full": "Shivaji Nagar, Wadia Factory Compound, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Joshi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.304683,
+          19.16067
+        ]
+      },
+      "id": "node/7635002085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002087",
+        "addr:district": "Nanded",
+        "addr:full": "Taroda Back Road, Balaji Nagar, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "N M C Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3088739,
+          19.1921768
+        ]
+      },
+      "id": "node/7635002087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002089",
+        "addr:district": "Nanded",
+        "addr:full": "Shivaji Nagar Nai Abaadi, Gokul Nagar, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Rachewad Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3068192,
+          19.1622017
+        ]
+      },
+      "id": "node/7635002089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002090",
+        "addr:district": "Nanded",
+        "addr:full": "Wadiya Compound, Shivaji Nagar, Near Ashwini Hospital, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Aadhar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.304524,
+          19.161304
+        ]
+      },
+      "id": "node/7635002090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002093",
+        "addr:district": "Nanded",
+        "addr:full": "Vasant Nagar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sangmeshwar Niwas, Sai seva Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3158994,
+          19.1718775
+        ]
+      },
+      "id": "node/7635002093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002094",
+        "addr:district": "Nanded",
+        "addr:full": "Lalbadi, Shrawasti Nagar, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sahyadri Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.304772,
+          19.1609243
+        ]
+      },
+      "id": "node/7635002094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002095",
+        "addr:district": "Nanded",
+        "addr:full": "Vivek Nagar, Vishnu Nagar, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Jadhav Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3069032,
+          19.1764667
+        ]
+      },
+      "id": "node/7635002095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002098",
+        "addr:district": "Nanded",
+        "addr:full": "Ganesh Nagar, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2980991,
+          19.1690036
+        ]
+      },
+      "id": "node/7635002098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002099",
+        "addr:district": "Nanded",
+        "addr:full": "Nagsen Nagar, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Videkar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.299703,
+          19.167415
+        ]
+      },
+      "id": "node/7635002099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002100",
+        "addr:district": "Nanded",
+        "addr:full": "Wadia factory, Shivaji Road, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. More Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3052491,
+          19.1607557
+        ]
+      },
+      "id": "node/7635002100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002103",
+        "addr:district": "Nanded",
+        "addr:full": "Beside Bojalwar Hospital, Kailash Nagar, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ishwar Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3050528,
+          19.1783035
+        ]
+      },
+      "id": "node/7635002103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002106",
+        "addr:district": "Nanded",
+        "addr:full": "Vivek Nagar, Vishnu Nagar, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Triveni Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.304937,
+          19.175922
+        ]
+      },
+      "id": "node/7635002106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002107",
+        "addr:district": "Nanded",
+        "addr:full": "Near Mahaveer Society, Lalbadi, Vishnu Nagar, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Kalpataru Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3035026,
+          19.1619623
+        ]
+      },
+      "id": "node/7635002107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002108",
+        "addr:district": "Nanded",
+        "addr:full": "Chaitanya Nagar, Near Soubhadra Mangal Karyalaya, Balaji Nagar, Nanded",
+        "addr:postcode": "431605",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Pooja Women's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3094347,
+          19.1845727
+        ]
+      },
+      "id": "node/7635002108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002109",
+        "addr:district": "Nanded",
+        "addr:full": "Lalbadi, Shrawasti Nagar, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Vinayak Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.304598,
+          19.161023
+        ]
+      },
+      "id": "node/7635002109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002110",
+        "addr:district": "Nanded",
+        "addr:full": "Wadiya Factory Area, Shivaji Putala, Nanded",
+        "addr:postcode": "431602",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Vision Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.302843,
+          19.160932
+        ]
+      },
+      "id": "node/7635002110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635002111",
+        "addr:district": "Nanded",
+        "addr:full": "Bhagya Nagar Road, Anand Nagar, Nanded",
+        "addr:postcode": "431601",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Allampallewar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.315226,
+          19.173436
+        ]
+      },
+      "id": "node/7635002111"
+    }
+  ]
+}

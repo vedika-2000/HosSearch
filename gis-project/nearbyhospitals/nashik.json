@@ -1,0 +1,6293 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.9 76e5016d",
+  "osm3s": {
+    "timestamp_osm_base": "2021-05-13T10:47:57Z",
+    "timestamp_areas_base": "2021-05-13T09:39:42Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1671916246,
+      "lat": 20.0043475,
+      "lon": 73.8037255,
+      "tags": {
+        "amenity": "hospital",
+        "name": "MGV's KBH Dental College &  Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1671920716,
+      "lat": 19.996035,
+      "lon": 73.799109,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mumbai-Agra national Highway, Opp. SBI, Kathda, Nashik",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr Zakir Hussain Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3053925694,
+      "lat": 19.9826086,
+      "lon": 73.7774614,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Dr Aware Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3053925695,
+      "lat": 19.9827112,
+      "lon": 73.7776885,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Nahush Eye Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3996732528,
+      "lat": 19.9990223,
+      "lon": 73.7826899,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Behind N D C C Bank, Old Agra Road, Old Agra Road",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr Bapaye Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4757644922,
+      "lat": 19.984407,
+      "lon": 73.776653,
+      "tags": {
+        "amenity": "hospital",
+        "name:en": "Karandikar Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4849889623,
+      "lat": 19.9962269,
+      "lon": 73.7791902,
+      "tags": {
+        "amenity": "hospital",
+        "name:en": "Dhadiwal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5447118540,
+      "lat": 19.9827257,
+      "lon": 73.755308,
+      "tags": {
+        "addr:city": "Nashik",
+        "addr:housenumber": "38 Durganagar Trimurti Chowk CIDCO-4",
+        "addr:postcode": "422008",
+        "addr:street": "Trimurti-Kamatwade Road",
+        "amenity": "hospital",
+        "description": "Piles Fistula Hernia Specialist",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "surgery;general",
+        "name": "Dr.Paner Surgical Hospital",
+        "operator": "Dr.Paner Paras Chetan",
+        "phone": "+91 9823095425"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7041055349,
+      "lat": 19.9908377,
+      "lon": 73.779341,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Hotel Sandeep, Mumbai Naka,Kute Marg",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr. Suryawanshi Eye Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7041066632,
+      "lat": 19.9886951,
+      "lon": 73.7221402,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "3Road & 4Rt Floor, Susya Arcade, Opposite Nilmani Bus Stand, Panchvati",
+        "addr:postcode": "422003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sarthak Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7041093725,
+      "lat": 19.9841655,
+      "lon": 73.7560272,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Vasant Vyakhyanmala Maidan, Behind Durga Mata Mandir, Trimurti Chowk",
+        "addr:postcode": "422008",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Aashirwad Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7042991440,
+      "lat": 20.0008122,
+      "lon": 73.7765541,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Suyojit Sankul,3Road Floor, Near Rajiv Gandhi Bhavan, Sharapur Road",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Soham Hospital and Medical Foundation Pvt. Ltd.",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7042991453,
+      "lat": 19.9885866,
+      "lon": 73.7846356,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Behind Wasan Showroom, Mumbai Naka",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Arihant Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7043011303,
+      "lat": 19.9551579,
+      "lon": 73.7575868,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "1st Floor, Rhaghukul Sankul,Behind Hotel Bandhuraj,Pathardi Phatta",
+        "addr:postcode": "422010",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Vakratunda Multispeciality Hospital - Nasik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7043015177,
+      "lat": 20.0125455,
+      "lon": 73.7562639,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gangapur Road Gangapur Road",
+        "addr:postcode": "422013",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Nerlikar Hospital and Research Centre",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7043017175,
+      "lat": 20.006418,
+      "lon": 73.7689488,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Plot No -3/5, Patil Lane 1, Canada Corner, Near Karmaveer Bhausaheb Hire Vidyalaya, Vasant Market, Gangapur Road",
+        "addr:postcode": "422005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Chopda Medicare & Research Centre Pvt. Ltd’s - Magnum Heart Institute",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7043617930,
+      "lat": 20.0009172,
+      "lon": 73.7724497,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Kulkarni Colony, Sharanpur Road, Near Kulkarni Garden. Opposite Nelson Hospital",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Lele Hospital and Research Center Pvt Ltd",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7044039930,
+      "lat": 20.5530901,
+      "lon": 74.5207954,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Satana Road, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Anjani Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7044356003,
+      "lat": 20.0038107,
+      "lon": 73.7755135,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "3rd Floor, Rajvee Enclave, New Pandit Colony, Beside Old Nashik Municipal Corporation",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Prasanna Balrugnalay and Research Centre",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7044490657,
+      "lat": 19.9869925,
+      "lon": 73.7852164,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Bhabha Nagar, Corner Mubai Naka, Nashik, Maharastra Nashik",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Vasan Eye Care Hospital, Nasik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7045252536,
+      "lat": 19.9996923,
+      "lon": 73.7833911,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Charuhas, Near Gaikwad Classes, Kanherewad",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr A.K.Pawar Institute of Obstetrics, Gynecology and Reproductive Medicine",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7045490283,
+      "lat": 19.9033228,
+      "lon": 73.8308689,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "960/5, Wadner Road, Deolali Camp",
+        "addr:postcode": "422401",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Swadi Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7045750041,
+      "lat": 19.987973,
+      "lon": 73.7822418,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gayakwad Nagar, Mumbai Naka, Near Mahamarg Bus Stand",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Shreeya Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7045823769,
+      "lat": 20.0027823,
+      "lon": 73.7752707,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gautam', New Pandit Colony, Sharanpur Road",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sushrut Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7045917537,
+      "lat": 19.9778567,
+      "lon": 73.8106236,
+      "tags": {
+        "addr:district": "Jalgaon",
+        "addr:full": "Shivaji Nagar, Jammer.Tal.Jamner",
+        "addr:postcode": "424206",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Muktai Hospital, Jalgaon",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7045980535,
+      "lat": 19.9903392,
+      "lon": 73.7356223,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Satpur,Nashik-Trimbak Road",
+        "addr:postcode": "422007",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr. Karad Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7047817984,
+      "lat": 19.9826909,
+      "lon": 73.8026011,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "858 / 85, Ganesh Bada Nagar, Behind Hotel Siddharth, Poona Road",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Suvichar Hospital Pvt. Ltd",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7047924965,
+      "lat": 20.0004043,
+      "lon": 73.7776136,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "3Road Floor, Above Kalakruti Sadi Centre, Suyojit Modern Point, Opposite Police Parage Gorund, Sharanpura Road",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sunrise Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7048040165,
+      "lat": 19.9858163,
+      "lon": 73.7818252,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Behind Mahamarg Bus Stand, Old Mumbai- Naka, Gaikwad Nagar",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Indorewala ENT Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7048172476,
+      "lat": 19.9921727,
+      "lon": 73.7835663,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "City Plaza, Opp Kalika Mandir, Old Agra Road",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sudarshah Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7048425352,
+      "lat": 19.9675714,
+      "lon": 73.7684003,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "N-35/S-4/8/1 Swami Vivekand Nagar State Bank Chowk Mumbai-Agra Highway Cidco",
+        "addr:postcode": "422008",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Shrinivas Multispeciality Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7048425359,
+      "lat": 20.0130312,
+      "lon": 73.7711117,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gangapur Rd Behind Mai Lele High School And Rathi Amrai, Gurudatta Nagar,Dehmandir Cooperative Housing Society",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sukhamte Maternity Home",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7048498760,
+      "lat": 19.9880209,
+      "lon": 73.7818341,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Behind Mahamarg Bus Stand Mumbai Naka",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr Ganorkar Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7048504195,
+      "lat": 20.0016885,
+      "lon": 73.7758031,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Crown Complex, Opposite Rajiv Gandhi Bhavan,3Road Floor,Sharanpur Road",
+        "addr:postcode": "422005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sai Hospital ( Saphalya Pvt. Ltd.,)",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7048874945,
+      "lat": 19.9884752,
+      "lon": 73.7899759,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dr Bhabha Nagar,Kaut Ghat Road,New Mumbai -Agra Road",
+        "addr:postcode": "422011",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Nasik Health Care and Research Centre Pvt.Ltd",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7048928936,
+      "lat": 19.9999141,
+      "lon": 73.7841488,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Kalidar Kala Mandir,Shalimar",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Shree Saibaba Heart Insititue and Research Center Pvt. Ltd.",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7049050295,
+      "lat": 20.0082351,
+      "lon": 73.7866621,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Kanhere Wadi, Near Gaikwad Classes, Behind Shivaji Garden, In Front Of Old Cbs",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Supe Heart & Diabetics Hospital and Research C",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7049054304,
+      "lat": 19.9978876,
+      "lon": 73.7832248,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "B-180, Opposite Zilla Parishad, Trimbak Road",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "email": "info@birlaeyehospital.com",
+        "name": "Birla Super Speciality Eye Hospital and Lasik Centre",
+        "phone": "02532505666",
+        "source": "OpenGovernmentData",
+        "website": "http://birlaeyehospital.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7049154744,
+      "lat": 19.9802987,
+      "lon": 73.7820715,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Vedashree Lane No-1, Suchita , Behind Hotel Inayat Cafe,Mumbai Agra Road",
+        "addr:postcode": "422009",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Barde Maternity Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7049188650,
+      "lat": 20.0089175,
+      "lon": 73.7857367,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Runghta High School, Opposite Adhar Ashram",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Chaitanya Nursing Home",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7049436593,
+      "lat": 20.5951949,
+      "lon": 74.2013571,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "T.D.A. Road, Satna",
+        "addr:postcode": "423301",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Hearts Sanjivani Centre",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7049534523,
+      "lat": 20.5633115,
+      "lon": 74.5201229,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Market Yard, Behind Warehouse, Camp Road, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "email": "info@rotaryeyehospitalmalegaon.org",
+        "name": "B. S. Bhandari Rotary Eye Hospital",
+        "source": "OpenGovernmentData",
+        "website": "http://rotaryeyehospitalmalegaon.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7049770679,
+      "lat": 19.9850043,
+      "lon": 73.749032,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "ITI-Ambad Link Road, Near CITU Bhavan, Khutwad Nagar",
+        "addr:postcode": "422008",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "email": "sukhakartahospitalnashik1@gmail.com",
+        "name": "Sukhakarta Hospital",
+        "source": "OpenGovernmentData",
+        "website": "http://sukhakartahospital.in/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7049880700,
+      "lat": 20.0102174,
+      "lon": 73.7932442,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mukund Appartment, Indrakund, Panchawati",
+        "addr:postcode": "422003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Shraddha Eye Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7050280708,
+      "lat": 20.014716,
+      "lon": 73.7966748,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Narayan Sankul, Near Mahalxmi Talkies Dinori Road, Panchavati",
+        "addr:postcode": "422003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sanjeevani Criticare and Research Centre Pvt Ltd",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7050321638,
+      "lat": 20.0055292,
+      "lon": 73.7772522,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ganeshree Bunglow, Lane No. 1, Gangapur Rd, Pandit Colony",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sparsh Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7050624423,
+      "lat": 20.0123987,
+      "lon": 73.8055301,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "67, Shivam Nagar, Hirawadi Road, Old Adgaon Naka, Panchavati",
+        "addr:postcode": "422003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr. Upasani Maternity and Nursing Home",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7051137474,
+      "lat": 19.9781346,
+      "lon": 73.7773159,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Plot, No 14, Sunderban Colony, Lekhanagar, Cidco",
+        "addr:postcode": "422009",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Usha Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7051167330,
+      "lat": 19.9984105,
+      "lon": 73.7711187,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Opposite Rachana Vidyalalya,Kilkarni Colony,Sharanpur Road",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Shinge Superspeciality Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7051342871,
+      "lat": 19.9917136,
+      "lon": 73.7790366,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "S.N. Kute Marg,Tidke Colony",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Kute Eye Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7051818380,
+      "lat": 19.986719,
+      "lon": 73.7210767,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "No. 54, Lahuti Nagar, Behind Moule Hall, Trimbak Road . Satpur",
+        "addr:postcode": "422007",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Maher Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7052219779,
+      "lat": 19.9875917,
+      "lon": 73.8016657,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Nasardi Bridge, Nasik-Poona Road, Dwarka",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "City Care Hospital and Research Centre Pvt. Ltd",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7052491864,
+      "lat": 19.9528704,
+      "lon": 73.835717,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Samadhan Sankul-1st Floor, Beside St Philip Church, Nashik Road",
+        "addr:postcode": "422101",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Chirayu Childrens Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7052774033,
+      "lat": 19.9845008,
+      "lon": 73.7766977,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Govind Nagar, Chowk No.5,Behind Hotel Prakesh,Mumbai Naka",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr.Pimprikar Hspital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7053111270,
+      "lat": 19.98929,
+      "lon": 73.7935165,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mumbai Agra Road, Near Dwarka Circle, Wadala Road",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sahyadri Speciality Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7053134021,
+      "lat": 19.9863157,
+      "lon": 73.798559,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Happy Home Colony,Near General Vaitya Nagar,Pune Road",
+        "addr:postcode": "422011",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Tulasi Eye Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7053152428,
+      "lat": 20.0807305,
+      "lon": 73.9128466,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Tilak Nagar , Opp Panchwd Ganesh Mandir Ojhar Mig",
+        "addr:postcode": "422207",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sneha Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7053163726,
+      "lat": 19.9917451,
+      "lon": 73.7904131,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Wadala Naka Mumbai Agra Road",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Wockhardt Hospitals",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7053177461,
+      "lat": 20.0018302,
+      "lon": 73.7758709,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Crown Complex Opp Rajiv Gandhi Bhavan Shaharan Pur Road",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Deepjyoti Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7053343857,
+      "lat": 19.9890052,
+      "lon": 73.7797084,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "No. 594 / 3, Ahilyabai Holkar Marg, Near Mahamarg Bus Stand, Mumbai Naka, Tidke Colony",
+        "addr:postcode": "422003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Suyash Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7053517503,
+      "lat": 20.0026242,
+      "lon": 73.7711522,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Guru Ashish Complex, Oppo. Bsnl,Canada Corner,Sharanpur Road",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Rudra Hospital and Critical Care Centre",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7053694059,
+      "lat": 19.9476728,
+      "lon": 73.8346964,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Surana Hospital 1st Floor, Ishwar Sankul-C, Behind Regimental Theatre, Nasik Road",
+        "addr:postcode": "422008",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Surana Hospital - Nasik Road",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7054258883,
+      "lat": 19.9973243,
+      "lon": 73.7740885,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Rohit Appartment Shyamlal Gupta Marg",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Jai Hospital Pvt Ltd",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7054427560,
+      "lat": 20.0081381,
+      "lon": 73.7853042,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gharpure Ghat Lane,Ashok Stambh",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Seeta Maternity and Surgical Nursing Home",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7054453176,
+      "lat": 19.9765314,
+      "lon": 73.8193629,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Netaji Subhash Colony, Ramdas Swami Nagar, Behind Gandhinagar",
+        "addr:postcode": "422006",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Asha Kendra Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7054529046,
+      "lat": 19.9724375,
+      "lon": 73.7730458,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Lekha Nagar, Saptashringi Complex, Mumbai- Agra Road",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Life Care Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7054657060,
+      "lat": 19.9905617,
+      "lon": 73.7791546,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Nehete Hospital & Sandeep Hotel, Tidke Colony",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Trupti Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7054918904,
+      "lat": 20.010797,
+      "lon": 73.7948723,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Panchavati Karanja",
+        "addr:postcode": "422003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Ramalayam Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7054997465,
+      "lat": 20.0071703,
+      "lon": 73.7586652,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "25, Krishi Naga, College Road",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "email": "susheeleyeinstitute@gmail.com",
+        "name": "Susheel Eye Hospital and Brahma Laser Centre",
+        "source": "OpenGovernmentData",
+        "website": "https://susheeleyeinstitute.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7055027734,
+      "lat": 20.0279233,
+      "lon": 73.8397256,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Opp Jantra Hospital, Mumbai-Agra Road , Adgaon",
+        "addr:postcode": "422003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Suparanas Home Division Of Uddhav Memorial Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7055254529,
+      "lat": 19.9814935,
+      "lon": 73.7558636,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "2nd Floor, Purab-Paschim Plaza, Trimurti Chowk Divya Adlabs, Cidco, New Nashik",
+        "addr:postcode": "422008",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Trimurti Multispeciality Hospital - Nasik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7055442586,
+      "lat": 20.0275358,
+      "lon": 74.4700259,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Paregaon Road, At. P. Yeola Tq. Yeola",
+        "addr:postcode": "423401",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sonawane Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7059172359,
+      "lat": 19.9878041,
+      "lon": 73.7899652,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shop No-1, Ram Plaza, Nav- Shakti Chowk, New Mumbai-Naka Near Dadasaheb Gaikwad Hall",
+        "addr:postcode": "422011",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sanskriti Multi Speciality Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7059172368,
+      "lat": 19.9665045,
+      "lon": 73.7674903,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shivnery, First Floor, Ner. Rane Nagar Signal, Mumbai, Agra Road",
+        "addr:postcode": "422009",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Suman Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7063077072,
+      "lat": 20.0057917,
+      "lon": 73.7846504,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Space Cosmos Near Canara Bank Old Agra Road Ashokstambh",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Ayush Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7063805493,
+      "lat": 20.0109886,
+      "lon": 73.7962657,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Surya Arcade, 2nd Floor,Opp Nimani Bus Stand",
+        "addr:postcode": "422003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Surya Multispeciality Hospitals Pvt. Ltd.",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7063808914,
+      "lat": 20.0111297,
+      "lon": 73.7672261,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Bhavik Nagar, Gangapur Road",
+        "addr:postcode": "422005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Vidya Vikas Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7063909897,
+      "lat": 19.984284,
+      "lon": 73.7770866,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Behind Prakash Petrol Pump, Govind Nagar, Mumbai - Agra Road",
+        "addr:postcode": "422009",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "email": "service@karandikarhospital.com",
+        "name": "Karandikar Hospital and Research Centre",
+        "phone": "0253 247 2076",
+        "source": "OpenGovernmentData",
+        "website": "http://www.karandikarhospital.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7063909914,
+      "lat": 20.0071079,
+      "lon": 73.7738478,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "'AURUS', 1st Floor, Near Pramod Mahajan Garden, Opposite Dongre Ground, Gangapur Road",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "email": "kalyanshivam1@gmail.com",
+        "name": "Shivam Eye Care Center",
+        "source": "OpenGovernmentData",
+        "website": "http://www.shivameyecarecenter.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7066505732,
+      "lat": 19.9964383,
+      "lon": 73.7799472,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Castle Rock.Near canada Crnter Signal,Opp Vishwas Bank",
+        "addr:postcode": "422005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Shreeji Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7066505757,
+      "lat": 19.9888741,
+      "lon": 73.7800531,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ashirwad Complex Opp Zilha Parishad Near Trimbak Naka",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Chiranjeev Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7067133433,
+      "lat": 19.9890228,
+      "lon": 73.780041,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Krishnai Sankul, Vakil Wadi",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Bhaskar Ent Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7067540925,
+      "lat": 19.9888577,
+      "lon": 73.7794456,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "S.No-594/2, Plot No -2, Holkar Road, Near Tupsakhre Lawns, Tidke Colony",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr Lads Navjeevan Hospital Pvt Ltd",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7068194961,
+      "lat": 20.5688871,
+      "lon": 74.5131665,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "OppositeAmbika Devi Temple,Ravagaon Naka Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Balaji Accident Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7070136219,
+      "lat": 19.9895837,
+      "lon": 73.7797118,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ahilyadevi Holkar Marg, Near Mahanagar Bus Stand,Opposite Suyash Hospital, Mumabi Naka",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Torne Ent Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7070517391,
+      "lat": 19.972578,
+      "lon": 73.7866808,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Parab Nasgar, Opposite Datta Mandir, Indira Nagar",
+        "addr:postcode": "422009",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Anand Hospital and Nursing Home",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7070668451,
+      "lat": 20.0118007,
+      "lon": 73.7946745,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Bhagchand Complex , Dindori Naka Panchvati",
+        "addr:postcode": "422003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sukhakarta Rugnalaya",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7070710004,
+      "lat": 19.9961371,
+      "lon": 73.7841891,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shirin Patel Colony, Shivaji Road",
+        "addr:postcode": "422008",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Ahura Maternity Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7072672451,
+      "lat": 20.5535968,
+      "lon": 74.5207344,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "B, Dvs Towers,Satana Road",
+        "addr:postcode": "423203",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dwarkamani Multi Speciality Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7073438343,
+      "lat": 20.5688507,
+      "lon": 74.5132497,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shivaji Rd, Camp, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Bhamare Hospital - Malegaon-Camp",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7073687637,
+      "lat": 19.959247,
+      "lon": 73.8391764,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Citycentre, Opp Sindhi Colony, Jail Road",
+        "addr:postcode": "422101",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Criticare Hospital For Children",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7073765601,
+      "lat": 19.9870542,
+      "lon": 73.7774782,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Chowk No 5,Govind Nagar Gihind Parkash Petrol Pump Mumbai Naka",
+        "addr:postcode": "422009",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Ashwini Accident Multi Speciality Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7073799784,
+      "lat": 19.9503819,
+      "lon": 73.8375691,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "1st Floor Hotel Shangrilla Opposite Somani Garden",
+        "addr:postcode": "422101",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Nashikroad Multispeciality Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7073909325,
+      "lat": 20.0052277,
+      "lon": 73.7666662,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "College Road",
+        "addr:postcode": "422005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Vijan Cardiac and Criticare Centre",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7073944672,
+      "lat": 20.0022694,
+      "lon": 73.7713855,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "No. 2, Vijay Towers,Canada Corner,Opposite Telephone Exchange,Sharanpuri Road",
+        "addr:postcode": "422206",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Panchavati Hospital and Research Centre",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7073949820,
+      "lat": 19.9906108,
+      "lon": 73.7942138,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Kazi Nagar, Opposite Aaiesha Masjid, Wadala Road",
+        "addr:postcode": "422007",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "New National Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7075571881,
+      "lat": 19.9897261,
+      "lon": 73.7831658,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Opposite Hotel Sandeep, Mumbai Naka, Mahamarg Bus Stand",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "email": "unit2@manavatacancercentre.com",
+        "name": "Curie Manavata Cancer Centre",
+        "source": "OpenGovernmentData",
+        "website": "https://www.hcgmanavatacancer.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7079665751,
+      "lat": 19.9817588,
+      "lon": 73.7769464,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Sagar Sweets, Rajmata Jijau Marg, Govind Naga",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Janak Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7079665758,
+      "lat": 19.9967232,
+      "lon": 73.7803482,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Doctor House",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Vimal Maternity and General Hosp",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7080205236,
+      "lat": 19.9642255,
+      "lon": 73.7649067,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "9, Telephone Exchange Rd, Ashwin Nagar",
+        "addr:postcode": "422009",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sahajeevan General Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7080205252,
+      "lat": 20.0055926,
+      "lon": 73.7780187,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "OppositeKthm College, Gangapur Road",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Siddhi Vinayak Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7080205271,
+      "lat": 19.9858682,
+      "lon": 73.7818944,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Thakar Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7081227381,
+      "lat": 19.952762,
+      "lon": 73.8360912,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Behind Regimental Plaza, Gaikwad Mala Road,Nasik Road",
+        "addr:postcode": "422101",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Om Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7081965718,
+      "lat": 20.2545375,
+      "lon": 74.4444229,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dsouza Maidan Police Station Road",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Pushpak Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7081965723,
+      "lat": 20.0066108,
+      "lon": 73.7115562,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shivajinagar, Satpur, Near Carbon Graphite Company, Near Bus Stand",
+        "addr:postcode": "422007",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr Gajare Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7081965751,
+      "lat": 19.958432,
+      "lon": 73.8352811,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Datta Mandir Stop Near Matwani Factor Nasik Road",
+        "addr:postcode": "422006",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Gujarathi Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7082579558,
+      "lat": 19.9646578,
+      "lon": 73.7659286,
+      "tags": {
+        "addr:district": "NAshik",
+        "addr:full": "Jay Plaza, Pelican Park Rd, Swami Vivekanand Nagar, Shri Ram Colony",
+        "addr:postcode": "422010",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Vatshalya Maternity Hospital and Infertility Clinic",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7082623473,
+      "lat": 19.9881343,
+      "lon": 73.7790459,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Behind Suyash Hospital, Mumbai Naka, Tidke Colony",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Vishwesh Childrens Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7082626981,
+      "lat": 19.9033474,
+      "lon": 73.8255608,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Devlali",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Cantoment General Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7082650565,
+      "lat": 19.9698189,
+      "lon": 73.8213068,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Upnagar",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Shushrusha Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7083324284,
+      "lat": 19.9984566,
+      "lon": 73.7767024,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Tilak Wadi, Near Mayor's Bungalow",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dhanvantari Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7085383682,
+      "lat": 20.0059593,
+      "lon": 73.775268,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Laxmibai Deore Bhuvan,Near Hrishikesh Hospital, Murkute Colony, Gangapur Road",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Micky Mouse Child Clinic and Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7085685380,
+      "lat": 19.95105,
+      "lon": 73.8386245,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Opp Muktidham, Hospital Road, Near Hotel Vasco",
+        "addr:postcode": "422101",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Jairam Hospitals and Research Centre Pvt Ltd",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7085731366,
+      "lat": 19.8448969,
+      "lon": 74.0019804,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "123,Main Road,Wavi Ves,Sinnar",
+        "addr:postcode": "422103",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Gare Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7086833892,
+      "lat": 19.959617,
+      "lon": 73.8310245,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Opp Bytco College, Nasik Road",
+        "addr:postcode": "422101",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sujata Birla Hospital and Medical Research Centre",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7086906890,
+      "lat": 19.9685231,
+      "lon": 73.7589361,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shree Hari Plaza , Above Hotel Vaibhav, 2nd Floor New Adgaon Naka, Panchvati",
+        "addr:postcode": "422003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Swami Hospital Nasik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7087491690,
+      "lat": 19.8428079,
+      "lon": 73.9952226,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "1348, Pachore Lane, Near S.T. Stand, On Nasik-Pune Highway, Sinnar",
+        "addr:postcode": "422103",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Parijat Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7226635961,
+      "lat": 19.6999136,
+      "lon": 73.5586945,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Rural Hospital Igatpuri, Near Dhammagiri, Igatpuri",
+        "addr:postcode": "422403",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Igatpuri",
+        "amenity": "hospital",
+        "name": "Rural Hospital Igatpuri",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7226872221,
+      "lat": 20.5962079,
+      "lon": 74.2003467,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:postcode": "423301",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Baglan",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Satana",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7226872222,
+      "lat": 20.550233,
+      "lon": 74.451763,
+      "tags": {
+        "addr:district": "Jalna",
+        "addr:full": "Malegaon Nashik, Dabhadi",
+        "addr:postcode": "423201",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Badnapur",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Dabhadi",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7226872243,
+      "lat": 20.558622,
+      "lon": 73.640249,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mahamandal Office Gadaun, Surgana",
+        "addr:postcode": "422211",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Surgana",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Surgana",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7226872282,
+      "lat": 20.629962,
+      "lon": 74.039621,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "NEAR ASHRAM SCHOOL, DANGSAUNDANE",
+        "addr:postcode": "423501",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Baglan",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Dangsaundane",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7226872298,
+      "lat": 20.5579986,
+      "lon": 74.5292216,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "General Hospital Malegaon, Near by Mausam River, Rahul Nagar Kalli Kutti Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Malegaon",
+        "amenity": "hospital",
+        "description": "Civil Hospital/General Hospital",
+        "name": "General Civil Hospital, Malegaon",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7226872309,
+      "lat": 20.656574,
+      "lon": 74.672957,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "G.No.594, Near Mankeshwar Temple, Gugalwad Road",
+        "addr:postcode": "423205",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Malegaon",
+        "amenity": "hospital",
+        "name": "Rural Hospital Zodga",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229288455,
+      "lat": 20.4311274,
+      "lon": 74.2997446,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "NEAR BUS STOP, DAHIWAD",
+        "addr:postcode": "423102",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Deola",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Dahiwad",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229288457,
+      "lat": 20.3290645,
+      "lon": 74.2384137,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Manmad Road, Chandvad",
+        "addr:postcode": "423101",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Chandvad",
+        "amenity": "hospital",
+        "description": "Sub District Hospital",
+        "name": "SDH Chandvad",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229288458,
+      "lat": 20.4589691,
+      "lon": 74.1883366,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "GIRIJAI MANGALKARYALAY, DEOLA",
+        "addr:postcode": "423102",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Deola",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Deola",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229288471,
+      "lat": 20.5226112,
+      "lon": 74.1335823,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near High School, Khamkhede",
+        "addr:postcode": "423301",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Deola",
+        "amenity": "hospital",
+        "name": "Government Hospital, Khamkhede",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229288478,
+      "lat": 20.4566047,
+      "lon": 74.6403724,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Post Office, Malgaon",
+        "addr:postcode": "423212",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Malegaon",
+        "amenity": "hospital",
+        "name": "Government Hospital, Malgaon",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229288480,
+      "lat": 20.478192,
+      "lon": 73.923922,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dalwat Road, At Post Abhona",
+        "addr:postcode": "423502",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Kalwan",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Abhona",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229288495,
+      "lat": 20.327369,
+      "lon": 73.888741,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Bus Stand, At-Post Vani",
+        "addr:postcode": "422215",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Dindori",
+        "amenity": "hospital",
+        "name": "Rural Hospital Vani",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229288501,
+      "lat": 20.5435237,
+      "lon": 74.543003,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Tawakkal Road, Near Overhead Water Tank, Gulshanabad,Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Malegaon",
+        "amenity": "hospital",
+        "name": "MMC Ali Akbar Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229288513,
+      "lat": 20.434419,
+      "lon": 73.523634,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gurtembhi, Barhe",
+        "addr:postcode": "422211",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Surgana",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Barhe Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229288524,
+      "lat": 20.4920917,
+      "lon": 74.0320177,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Hospital, Ganesh Nagar,Kalwan",
+        "addr:postcode": "423501",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Kalwan",
+        "amenity": "hospital",
+        "description": "Sub District Hospital",
+        "name": "SDH Kalwan",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229288525,
+      "lat": 20.42407,
+      "lon": 74.346869,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Bajarpeth, Umarane",
+        "addr:postcode": "423110",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Deola",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Umrane",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229312389,
+      "lat": 19.82794,
+      "lon": 73.8578779,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ghoti-Shiridi Road, Near MSEB Sub Station, Pandhurli",
+        "addr:postcode": "422502",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Sinnar",
+        "amenity": "hospital",
+        "name": "Government Hospital, Pandhurli",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229312408,
+      "lat": 19.7454445,
+      "lon": 74.116263,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Brahmanand High School & College , Near Shivshankar Temple, Dodi Budruk",
+        "addr:postcode": "422606",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Sinnar",
+        "amenity": "hospital",
+        "name": "Rural Hospital Dodi",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229312416,
+      "lat": 19.7145575,
+      "lon": 73.6227386,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Grampanchayat office, Ghoti",
+        "addr:postcode": "422402",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Igatpuri",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Ghoti",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229312429,
+      "lat": 19.845534,
+      "lon": 73.9997151,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sinnar Municipal Hospital, 14,Chowk Wada, Sinnar",
+        "addr:postcode": "422103",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Sinnar",
+        "amenity": "hospital",
+        "name": "Sinnar Municipal Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229316306,
+      "lat": 20.1362631,
+      "lon": 74.2248584,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Behind New Onian Market, Lasalgaon",
+        "addr:postcode": "422306",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Niphad",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Lasalgaon",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229316315,
+      "lat": 20.1997662,
+      "lon": 73.8303135,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Rameshwar Mandir, At-Post Dindori",
+        "addr:postcode": "422202",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Dindori",
+        "amenity": "hospital",
+        "name": "Rural Hospital Dindori",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229316319,
+      "lat": 20.1004966,
+      "lon": 74.5496882,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "AT Post Nagarsul, Railway Station, Nagarsul",
+        "addr:postcode": "423403",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Yevla",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Nagarsul",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229316320,
+      "lat": 20.30424,
+      "lon": 74.668892,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Aurangabad Road, Nandgaon",
+        "addr:postcode": "423106",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Nandgaon",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Nandgaon",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229316332,
+      "lat": 20.116857,
+      "lon": 73.455007,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Rural Hospital Harsul, In Village Near High School, Harusul",
+        "addr:postcode": "422204",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Trimbakeshwar",
+        "amenity": "hospital",
+        "name": "Rural Hospital Harusul",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229316333,
+      "lat": 20.1266565,
+      "lon": 73.3998953,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Vadpada In Village, Thanapada",
+        "addr:postcode": "422204",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Trimbakeshwar",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Thanapada",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229316374,
+      "lat": 20.2579081,
+      "lon": 73.5012961,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near High School, Peint",
+        "addr:postcode": "422208",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Peint",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Peint",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229316391,
+      "lat": 20.2558476,
+      "lon": 74.4418926,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "FCI Road, Manmad",
+        "addr:postcode": "423104",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Nandgaon",
+        "amenity": "hospital",
+        "description": "Sub District Hospital",
+        "name": "SDH Manmad",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229410983,
+      "lat": 20.036798,
+      "lon": 74.486988,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "AT Post Yeola, Near Jain Hotel, Yeola",
+        "addr:postcode": "423401",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Yevla",
+        "amenity": "hospital",
+        "name": "Yeola Rural Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229410984,
+      "lat": 19.9491303,
+      "lon": 73.8386246,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shastri Path, Near NMC Divisional Office, Nashik",
+        "addr:postcode": "422214",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "NSKMC JDC Bytco Hospital-(D)",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229410996,
+      "lat": 19.9918349,
+      "lon": 73.7338339,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "ESI Hospital Satpur Nashik, NEAR DMO OFFICE, Satpur",
+        "addr:postcode": "422007",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "ESI Hospital Satpur Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229410997,
+      "lat": 20.08169,
+      "lon": 74.1085418,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "sub district hospital niphad, ugaon road,market commitee",
+        "addr:postcode": "422303",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Niphad",
+        "amenity": "hospital",
+        "description": "Sub District Hospital",
+        "name": "SDH Niphad",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229411004,
+      "lat": 19.9654705,
+      "lon": 73.7622144,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sambhaji Stadium Road, Near Overhead Water Tank, Nashik",
+        "addr:postcode": "422010",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "NMCH, Cidco",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229411014,
+      "lat": 20.0235211,
+      "lon": 73.9976213,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shree Ganesh Ent & Cyber Point Chandori",
+        "addr:postcode": "422201",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Niphad",
+        "amenity": "hospital",
+        "description": "Civil Hospital",
+        "name": "Civil Hospital Chandori",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229411026,
+      "lat": 20.072457,
+      "lon": 73.663926,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Zillha Parishad School, Girnare",
+        "addr:postcode": "422203",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Rural Hospital Girnare",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229411034,
+      "lat": 19.9864534,
+      "lon": 73.8492727,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Jail Road, Near Panchak School, Nashik",
+        "addr:postcode": "422214",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "NSKMC Panchak Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229411035,
+      "lat": 19.9335735,
+      "lon": 73.5324793,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dr Ambedkar Statue, Trimbakeshwar",
+        "addr:postcode": "422212",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Trimbakeshwar",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Trimbak",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229411046,
+      "lat": 19.9673414,
+      "lon": 73.7681624,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mumbai Agra Road, Near Ambad Police Station, Cidco, Nashik",
+        "addr:postcode": "422009",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Samarth General Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229411059,
+      "lat": 19.996932,
+      "lon": 73.778263,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Police Staff Colony, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "description": "Civil Hospital",
+        "name": "Civil Hospital, Nashik",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229411063,
+      "lat": 20.009888,
+      "lon": 73.795503,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Panchavati Karanja Road, Near RO Care India, Panchavati, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "NSKMC Indira Gandhi Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7602534456,
+      "lat": 20.0898194,
+      "lon": 73.3945969,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shirasgaon",
+        "addr:postcode": "422204",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Government Hospital, Shirasgaon",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608304,
+      "lat": 20.041458,
+      "lon": 73.805987,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dindori Road, Kalananagar, Mhasrul Gaon, Nashik",
+        "addr:postcode": "422004",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "J & J Accident Nursing Home",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608305,
+      "lat": 19.8778321,
+      "lon": 73.8341905,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Panch Jyoti Apartment, Shiv Chhatrapati Road, Bhagur, Nashik",
+        "addr:postcode": "422502",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608307,
+      "lat": 20.0085141,
+      "lon": 73.7088611,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shivaji Nagar, Satpur Colony, Nashik",
+        "addr:postcode": "422007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sanjivani Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608308,
+      "lat": 20.0345512,
+      "lon": 73.7953286,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shiv Samarth Nagar, Durga Nagar, Sneha Nagar, Nashik",
+        "addr:postcode": "422004",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sharda Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608309,
+      "lat": 20.0323588,
+      "lon": 73.7174141,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Kranti Chowk, Near Jijamata Garden, Gangapur Village, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608310,
+      "lat": 19.8295222,
+      "lon": 73.855492,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Pandhurli",
+        "addr:postcode": "422502",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gurav Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608312,
+      "lat": 20.0425526,
+      "lon": 73.7788271,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Swami Nagar, Makhmalabad Road, Opp. Shanti Nagar, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nyuninad Metkar Maternity & Nursing Home",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608313,
+      "lat": 19.9504823,
+      "lon": 73.8381773,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Nashik - Pune Road, Near Bytco Hospital, Rajwada Nagar, Deolali Gaon, Nashik",
+        "addr:postcode": "422101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Matoshree Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608314,
+      "lat": 20.0423414,
+      "lon": 73.8050454,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dindori Road, Kalananagar, Vaiduwadi, Sneha Nagar, Nashik",
+        "addr:postcode": "422004",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Rana Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608315,
+      "lat": 19.7174198,
+      "lon": 73.6268957,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ghoti Toll, Ghoti, Ghoti Budruk",
+        "addr:postcode": "422402",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Pawan Accident & General Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608316,
+      "lat": 20.044371,
+      "lon": 73.805414,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Vani - Dindori Road, Shivaji Nagar, Mhasrul Gaon, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sahwas Hospital Private Limited",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608317,
+      "lat": 20.0336219,
+      "lon": 73.8051461,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Kalananagar, Pokar Colony, Vaiduwadi, Nashik",
+        "addr:postcode": "422004",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sakhale Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608318,
+      "lat": 19.9480032,
+      "lon": 73.834358,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Hari Bhakti, Artillery Centre Road, Near Jain Mandir, Nashik",
+        "addr:postcode": "422101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Sankalp Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608319,
+      "lat": 19.9505453,
+      "lon": 73.8306582,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Anand Nagar, Behind Muktidham, Nashik Road, Nashik",
+        "addr:postcode": "422101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Jadhav Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608320,
+      "lat": 19.961164,
+      "lon": 73.833422,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gandharva Nagari, Rosa Colony, Sane Guruji Nagar, Nashik",
+        "addr:postcode": "422214",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Akshay Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608321,
+      "lat": 19.963289,
+      "lon": 73.734193,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ambad Satpur Link Road, XLO Point, Ambedkar Nagar, Sanjeev Nagar, Nashik",
+        "addr:postcode": "422007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Venus super Speciality Hospital Limited",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608323,
+      "lat": 20.0003159,
+      "lon": 73.7546228,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Satguru's, Opp Water Tank, Mahatma Nagar, Nashik",
+        "addr:postcode": "422007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Six Sigma Multispeciality & Accidental Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608324,
+      "lat": 20.0121678,
+      "lon": 73.7180576,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Marathi School, Dhurav Nagar, Gangapur, Nashik",
+        "addr:postcode": "422007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Pawar Children's Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608325,
+      "lat": 19.9073141,
+      "lon": 73.8327094,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Arc Heaven Lam Road, Sansari, Naka, Deolali Camp, Nashik",
+        "addr:postcode": "422401",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Pragati Health Care Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608326,
+      "lat": 19.958211,
+      "lon": 73.838324,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "1st Floor, Kailashdeep, Jail Road, Nashik",
+        "addr:postcode": "422101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mogal Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608327,
+      "lat": 20.041798,
+      "lon": 73.805017,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sneha Nagar, Nashik",
+        "addr:postcode": "422004",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Varsha Lahade Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608329,
+      "lat": 20.0023416,
+      "lon": 73.7111518,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Carbon Naka, Shivaji Nagar, Shramik Nagar, Nashik",
+        "addr:postcode": "422007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sankalp Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608330,
+      "lat": 19.953202,
+      "lon": 73.836082,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Hospital Road, Sneh Bandhan Colony, Gayakhe Colony, Nashik Road, Nashi",
+        "addr:postcode": "422214",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Omkar Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608331,
+      "lat": 19.7202469,
+      "lon": 73.6274412,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ghoti Budruk",
+        "addr:postcode": "422402",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Siddhi Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608332,
+      "lat": 19.7117301,
+      "lon": 73.6197092,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ghoti Budruk",
+        "addr:postcode": "422402",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Meva Accident and General Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608333,
+      "lat": 19.950332,
+      "lon": 73.836886,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Deodarshan Apartment, Near G. D. Somani Garden, Deolali Gaon, Nashik",
+        "addr:postcode": "422101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sanjeevani Dental and Accident Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608334,
+      "lat": 19.9741286,
+      "lon": 73.8775552,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "NTPS Colony, Eklahare",
+        "addr:postcode": "422105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Tamboli Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608335,
+      "lat": 19.951081,
+      "lon": 73.8325961,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Hari Niwas, First Floor, Opp NMC Ground, Nashik Road, Nashik",
+        "addr:postcode": "422101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Muthal Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608336,
+      "lat": 20.0089338,
+      "lon": 73.7111851,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shiv Shakti Chowk, Shivaji Nagar, Satpur Colony, Nashik",
+        "addr:postcode": "422007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Aai Nursing & Maternity Home",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608337,
+      "lat": 20.0393386,
+      "lon": 73.8041443,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Opp Akash Petrol Pump, Dindori Road, Nashik",
+        "addr:postcode": "422004",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Samarth Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608340,
+      "lat": 19.9762811,
+      "lon": 73.8417881,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Jail Road, Nashik",
+        "addr:postcode": "422006",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "New Life Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608341,
+      "lat": 19.7159359,
+      "lon": 73.6262395,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Navnath Nagar, Sambhaji Nagar, Ghoti Budruk",
+        "addr:postcode": "422402",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Jain Accident & General Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608342,
+      "lat": 19.9502598,
+      "lon": 73.8385475,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Trimbak Complex, Shahu Maharaj Path, Opp Bytco Hospital, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Seva Children Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608343,
+      "lat": 20.0336205,
+      "lon": 73.7939831,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Peth Road, Opp. RTO Office, Nashik",
+        "addr:postcode": "422013",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Namco Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608345,
+      "lat": 19.970342,
+      "lon": 73.8337,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Canal Road, Gosavi Nagar, Upnagar, Nashik",
+        "addr:postcode": "422006",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Jeevan Jyoti Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608346,
+      "lat": 19.937527,
+      "lon": 73.545104,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Trimbak",
+        "addr:postcode": "422212",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree P. P. More Dada Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608347,
+      "lat": 20.0460542,
+      "lon": 73.8053156,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dindori Road, Near Patni Park, Vaiduwadi, Mhasrul Gaon, Nashik",
+        "addr:postcode": "422004",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Sonawane's Seva Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608348,
+      "lat": 19.962274,
+      "lon": 73.734859,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Tip Top Plaza, 2nd floor, XLO Point, Ambedkar Nagar, MIDC Ambad, Nashik",
+        "addr:postcode": "422007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Jupiter Multi-Speciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608349,
+      "lat": 19.9865319,
+      "lon": 73.7224982,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Trambakeshwar Road, Near Papaya Nursery, Ashoknagar, Satpur Colony, Nashik",
+        "addr:postcode": "422012",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Joshi Nursing Home & Ayurved Chikitsa Kendra",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608350,
+      "lat": 20.037304,
+      "lon": 73.7818026,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Makhmalabad Road, Vidya Nagar, Panchavati, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Leelavati Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608351,
+      "lat": 20.041653,
+      "lon": 73.804976,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Bus Stop, Wagulde Plaza, Dindori Road, Geeta Nagar, Nashik",
+        "addr:postcode": "422004",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Synergy Hospital & Research Centre",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608352,
+      "lat": 19.713404,
+      "lon": 73.6235449,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ghoti Toll, Ghoti - Sinnar Road, Sambhaji Nagar, Ghoti Budruk",
+        "addr:postcode": "422402",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dhande Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608353,
+      "lat": 19.7182044,
+      "lon": 73.6265294,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ghoti Toll, Padgha - Shirdi Road, Ghoti Budruk",
+        "addr:postcode": "422402",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bangar Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608354,
+      "lat": 20.0365177,
+      "lon": 73.8032606,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dindori Road, Near Reliance Petrol Pump, Swadya Nagar, Mhasrul Gaon, Nashik",
+        "addr:postcode": "422004",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Lilavati Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608355,
+      "lat": 19.9579069,
+      "lon": 73.8237349,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Jai Bhavani Road, Gandhi Nagar Airport Area, Nashik Road, Nashik",
+        "addr:postcode": "422101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Suman Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608356,
+      "lat": 20.018936,
+      "lon": 73.847253,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Konark Nagar, Nashik",
+        "addr:postcode": "422006",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Ahire's Anand Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608357,
+      "lat": 20.0124785,
+      "lon": 73.7480373,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Bus Stop, Anandvalli, Nashik",
+        "addr:postcode": "422013",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bhosale Multi - Speciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608358,
+      "lat": 19.996016,
+      "lon": 73.7064476,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Mahadev Mandir, Shramik Nagar, Nashik",
+        "addr:postcode": "422007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Sai Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608359,
+      "lat": 20.0110022,
+      "lon": 73.8261197,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Amrutdham Road, Near Shani Mandir, Bidi Kamgar Colony, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Vaishali Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608360,
+      "lat": 20.009716,
+      "lon": 73.826325,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Amrutdham Road, Hanuman Nagar, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Anurag Children Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608361,
+      "lat": 20.0121645,
+      "lon": 73.7395671,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Balawant Nagar, Anandwalli Shiwar North of Wisdom High School, Gangapur Road, Nashik",
+        "addr:postcode": "422013",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Aaditya Women's Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608362,
+      "lat": 19.9756586,
+      "lon": 73.8418277,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dasak Stop, Jail Road, Nashik Road, Nashik",
+        "addr:postcode": "422101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Swami Samarth Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608363,
+      "lat": 19.9503755,
+      "lon": 73.8316399,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gulmohar Colony, Anand Nagar, Nashik Road, Nashik",
+        "addr:postcode": "422214",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Rakesh Tiwari Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608364,
+      "lat": 19.7164132,
+      "lon": 73.6308658,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ghoti Budruk",
+        "addr:postcode": "422402",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Medade General Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608365,
+      "lat": 19.9477355,
+      "lon": 73.8344262,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Anand Nagar, Nashik Road, Nashik",
+        "addr:postcode": "422214",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Divya Jyot Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608366,
+      "lat": 19.952837,
+      "lon": 73.835853,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gaikwad Complex, Above Jalgaon Peoples Bank, Gaikwad Mala Road, Nashik - Pune Road",
+        "addr:postcode": "422101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Medicare Multispeciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608367,
+      "lat": 19.9476983,
+      "lon": 73.8356664,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Artillery Centre Road, Anand Nagar, Nashik",
+        "addr:postcode": "422101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Janki Maternity Home",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608368,
+      "lat": 19.9457509,
+      "lon": 73.8337767,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Lingayat Colony, Deolali Gaon, Nashik Road, Nashik",
+        "addr:postcode": "422214",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gurukrupa Maternity Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608369,
+      "lat": 19.947238,
+      "lon": 73.837592,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Bhagwant Complex, Near Nashik Road, Court, Nashik Road, Opposite to Anuradha Thearter",
+        "addr:postcode": "422101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Siddhivinayak Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608370,
+      "lat": 20.0126765,
+      "lon": 73.748066,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Anandvalli, Nashik",
+        "addr:postcode": "422013",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Niramay Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608371,
+      "lat": 19.7180742,
+      "lon": 73.6274831,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ghoti Budruk",
+        "addr:postcode": "422402",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Saubhagya Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608372,
+      "lat": 19.9724377,
+      "lon": 73.8408513,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Laxmi Varsha Apartment, Jail Road, Opp. Vyapari Bank, Nashik",
+        "addr:postcode": "422101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nandurkar Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608373,
+      "lat": 19.9897577,
+      "lon": 73.7169553,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ashok Nagar Road, Balwant Nagar, Ashoknagar, Satpur Colony, Nashik",
+        "addr:postcode": "422012",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shaishav Children Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008757,
+      "lat": 20.5678927,
+      "lon": 74.5147362,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shivaji Road, Camp, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ashray Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008758,
+      "lat": 19.8393453,
+      "lon": 73.9957438,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Madhav Bagh,Tambeshwar Nagar, Near Navjeeven School, Ghoti - Shirdi Road, Sinnar",
+        "addr:postcode": "422103",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Paramsai Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008759,
+      "lat": 20.5502715,
+      "lon": 74.5133662,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Soygaon, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Badve Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008760,
+      "lat": 20.3217047,
+      "lon": 74.238441,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Tisgaon Road, Davkhar Nagar, Chandwad",
+        "addr:postcode": "423101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mahale Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008761,
+      "lat": 20.1698617,
+      "lon": 73.9860899,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mumbai - Agra National Highway, Behind Bank of Maharashtra, Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Suman Hospital Surgical Specialist",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008762,
+      "lat": 20.1642122,
+      "lon": 73.9901124,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gurukrupa Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008764,
+      "lat": 20.5769793,
+      "lon": 74.5054692,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Camp, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Sai Krupa Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008765,
+      "lat": 20.568115,
+      "lon": 74.5079436,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Church Gate Road, Camp, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Lotus Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008766,
+      "lat": 20.1640414,
+      "lon": 73.9896123,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ghodke Nagar Road, Punam Saras Nagar, Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Astha Multispeciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008767,
+      "lat": 20.5586887,
+      "lon": 74.5194337,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "60 Feet Road, Soygaon, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sushrut Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008768,
+      "lat": 20.080354,
+      "lon": 74.110734,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Niphad",
+        "addr:postcode": "422303",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Niphad Multispeciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008769,
+      "lat": 19.8394126,
+      "lon": 73.9951718,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Maharashtra",
+        "addr:postcode": "422103",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ugale Accident & Maternity Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008770,
+      "lat": 19.8432572,
+      "lon": 73.9908147,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Bus Stand, Near Shivaji Nagar, Sinnar",
+        "addr:postcode": "422103",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Loharkar Maternity Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008772,
+      "lat": 20.5473866,
+      "lon": 74.5269875,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sawata Nagar, Sangameshwar, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Rajendra Amin Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008773,
+      "lat": 20.5653577,
+      "lon": 74.513973,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gaytri Nagar, Agriculture Collage Farm Area, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Borade Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008774,
+      "lat": 20.0960973,
+      "lon": 73.9288938,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Tambat Line, Khwaja Gharib Nawaz Colony, Nashik",
+        "addr:postcode": "422206",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Kasliwal Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008775,
+      "lat": 20.1701721,
+      "lon": 73.9887682,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shri Hari Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008776,
+      "lat": 20.3262547,
+      "lon": 74.2356518,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Talwade, Chandwad",
+        "addr:postcode": "423101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Kedar Prayas Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008777,
+      "lat": 20.1709676,
+      "lon": 73.9884439,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Building No 1020, Shivajinagar, NH 3, Pimpalgaon Baswant, Nashik",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shelke Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008778,
+      "lat": 20.1646153,
+      "lon": 73.9901823,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ghodke Nagar Road, Behind Hotel, Punam Saras Nagar, Rucha, Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Suyog Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008779,
+      "lat": 20.5655567,
+      "lon": 74.5160043,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gaytri Nagar, Agriculture Collage Farm Area, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Abhinandan Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008781,
+      "lat": 20.5540213,
+      "lon": 74.5188949,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Balaji Arcked, 60 Feet Road, Satana Naka, Soygaon, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Chaitanya Sai Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008782,
+      "lat": 20.5519302,
+      "lon": 74.5385277,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mirza Ghalib Road, Murtuza Bagh, Nayapura, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Al Aziz Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008783,
+      "lat": 20.080329,
+      "lon": 74.111234,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Niphad",
+        "addr:postcode": "422303",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mauli Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008784,
+      "lat": 19.843601,
+      "lon": 73.994578,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sinnar Bus Station, Nashik - Pune Road, Sinnar",
+        "addr:postcode": "422013",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dhanvantari Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008786,
+      "lat": 20.5462579,
+      "lon": 74.5244198,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Motibagh Naka, Old Agra Road, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Chaitanya Accident & Trauma Care Centre Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008787,
+      "lat": 20.5941986,
+      "lon": 74.2030608,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Chaugaon Road, Satana",
+        "addr:postcode": "423301",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shah Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008788,
+      "lat": 20.3309028,
+      "lon": 74.0598032,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Hanuman Lane, Dhodambe",
+        "addr:postcode": "423117",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Dhanvantari Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008789,
+      "lat": 20.5583362,
+      "lon": 74.529402,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Hudco Colony, Dnyane, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Malegaon Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008790,
+      "lat": 20.553335,
+      "lon": 74.5210987,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Satana Road, Behind Jaju Hospital, Osiya Nagar, Maloji Nagar, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Shradha Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008791,
+      "lat": 20.077955,
+      "lon": 74.1091822,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sable Plaza, Ugav Road, Niphad",
+        "addr:postcode": "422303",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shri Sai Multispeciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008792,
+      "lat": 20.5973626,
+      "lon": 74.2034109,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shamji Nagar, Mitra Nagar, Satana",
+        "addr:postcode": "423301",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Children Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008793,
+      "lat": 20.5594303,
+      "lon": 74.5222812,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Dipak Theater, Vardhaman Nagar, Camp Road, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Thakare ENT Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008794,
+      "lat": 20.5535377,
+      "lon": 74.5202546,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Suryakiran Apartment, Satana Naka, Osiya Nagar, Maloji Nagar, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mamta Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008796,
+      "lat": 20.4922029,
+      "lon": 74.0269728,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Bus Stand, Kalwan",
+        "addr:postcode": "423501",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Samarth Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008797,
+      "lat": 20.5579833,
+      "lon": 74.5193184,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Soygaon, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Abhilasha Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008798,
+      "lat": 20.171595,
+      "lon": 73.990461,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Rajuanna More Nagar, Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Tanmay Hospital and Dental Clinic",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008799,
+      "lat": 20.554601,
+      "lon": 74.518515,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "60 Feet Road, Next to Rotary Garden, Malegaon",
+        "addr:postcode": "423206",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sanjivani Children Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008800,
+      "lat": 20.5909183,
+      "lon": 74.2026129,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Nashik Road, Deep Nagar, Satana",
+        "addr:postcode": "423301",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nisarg Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008801,
+      "lat": 20.32501,
+      "lon": 74.235674,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ganur Road, Phulenagar, Chandwad",
+        "addr:postcode": "423101",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Amrut Hospital & Multispeciality Unit",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008802,
+      "lat": 19.8423836,
+      "lon": 73.9934613,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Motikamal Tower, Behind SBI, Sinnar",
+        "addr:postcode": "422103",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Siddhivinayak Super Speciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008803,
+      "lat": 20.5623312,
+      "lon": 74.5499933,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Old Agra Road, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "New Faran Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008805,
+      "lat": 20.5736884,
+      "lon": 74.5152049,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Camp, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Rachana Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008806,
+      "lat": 20.1639578,
+      "lon": 73.985526,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Bhide Nagar, Behind Shah Petrol Pump, Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Parag Memorial Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008807,
+      "lat": 20.558997,
+      "lon": 74.522585,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Rajabhau Complex, Near Deepak Theatre, Vardhaman Nagar Road, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Children Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008809,
+      "lat": 20.5479917,
+      "lon": 74.5241198,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Jyoti Nagar, Osiya Nagar, Maloji Nagar, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gayatri Accident Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008810,
+      "lat": 20.5509799,
+      "lon": 74.5382521,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mushawarat Chowk, Nayapura, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Noor Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008811,
+      "lat": 20.557047,
+      "lon": 74.522188,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Soygaon, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sri Govinda Accident Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008812,
+      "lat": 20.1746967,
+      "lon": 73.9853519,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "National Highway 3, Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Pustake Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008813,
+      "lat": 20.545197,
+      "lon": 74.5263403,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Beside Dr. Paripathyadar Hospital, Savata Nagar, Sangameshwar, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bora Children's Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008814,
+      "lat": 20.5653966,
+      "lon": 74.516138,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Opp.Government Technical High School, Camp Road, Gaytri Nagar, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Borude Children's Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008815,
+      "lat": 20.088919,
+      "lon": 73.923543,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "R.K.Plaza, Saykheda Phata, Ojhar",
+        "addr:postcode": "422206",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Shree Superspeciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008816,
+      "lat": 20.174071,
+      "lon": 73.987266,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mumbai - Agra National Highway, Near IDBI Bank, Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Radhakrishna Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008817,
+      "lat": 20.5472423,
+      "lon": 74.5282954,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Swami Samarth Kendra Road, Golden Nagar, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Sunit Shah Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008818,
+      "lat": 20.1729686,
+      "lon": 73.9862407,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mumbai - Agra National Highway, Dattawadi, Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dhanwantari Multispeciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008819,
+      "lat": 20.5586536,
+      "lon": 74.5212679,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Soygaon, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Navjeevan Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008820,
+      "lat": 20.164508,
+      "lon": 73.988906,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Netralaxmi Eye Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008821,
+      "lat": 20.5450613,
+      "lon": 74.5263449,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Savata Nagar, Sangameshwar, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gurukrupa Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008822,
+      "lat": 20.5572569,
+      "lon": 74.522592,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sangameshwar, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Jawahar Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008823,
+      "lat": 20.5491288,
+      "lon": 74.5362514,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Viraj Plaza, Lodha Bhavan Road, Bhikku Chowk, Soygaon, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Maryam Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008824,
+      "lat": 20.6632545,
+      "lon": 74.6748403,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Nashik, Dhule",
+        "addr:postcode": "424006",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Shraddha Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008826,
+      "lat": 20.5574847,
+      "lon": 74.5434966,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Old Agra Road, Imdad Nagar, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Swat Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008827,
+      "lat": 20.5483003,
+      "lon": 74.5444083,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Abdul Aziz Mistri Road, Abdullah Nagar, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Madeena Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008828,
+      "lat": 19.84296,
+      "lon": 73.995984,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sinnar",
+        "addr:postcode": "422103",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Avhad Children Hospital & Sonography Centre",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008830,
+      "lat": 20.0820154,
+      "lon": 74.1093394,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Government Hospital, Hanuman Nagar, Ugaon Road, Niphad",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ashirwad Multispeciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008831,
+      "lat": 20.5319029,
+      "lon": 74.5241051,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Chandan Puri Road, Bajarang Wadi, Gulshanabad Mansoora, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Assayer Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008832,
+      "lat": 20.164812,
+      "lon": 73.990511,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Punam Saras Nagar, Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Vateshwari Children's Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008833,
+      "lat": 20.1726652,
+      "lon": 73.9855758,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Canal, Pimplgoan-Jopul Road, Pimpagaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Navjeevan Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008834,
+      "lat": 20.1617448,
+      "lon": 73.9899495,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ghodke Nagar Road, Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gayatri Hospital and Fertility Centre",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008835,
+      "lat": 19.7410993,
+      "lon": 74.0544822,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dapur",
+        "addr:postcode": "422606",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "vithai Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008836,
+      "lat": 20.5645258,
+      "lon": 74.5167034,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Agriculture Collage Farm Area, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mauli Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008837,
+      "lat": 20.1390318,
+      "lon": 74.2370855,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shirdi - Lasalgaon Road, Lasalgaon",
+        "addr:postcode": "422306",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Lotus Multispeciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008839,
+      "lat": 20.1633107,
+      "lon": 73.9896844,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ghodke Nagar Road, Pimpalgaon Baswant",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Girija Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008840,
+      "lat": 19.8477837,
+      "lon": 74.0014778,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sinnar",
+        "addr:postcode": "422103",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Government Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008841,
+      "lat": 20.5591842,
+      "lon": 74.5137554,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Soygaon College Road, Soygaon, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Prayas Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008842,
+      "lat": 20.5449427,
+      "lon": 74.5395365,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Hakeem Nagar, Nayapura Ward, Maulana Abul Kalam Azad Road, Gulshanabad, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ameeniya Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008843,
+      "lat": 20.5584067,
+      "lon": 74.5194185,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Soygaon, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bafna Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008844,
+      "lat": 20.5562946,
+      "lon": 74.5431974,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Old Agra Road, Golden Nagar, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Alfa Accident Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008845,
+      "lat": 20.5590246,
+      "lon": 74.521149,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Behind Kankariya Nivas, Soygaon, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "More Accident Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008846,
+      "lat": 20.558247,
+      "lon": 74.5193322,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "60ft Road, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Life Care Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008848,
+      "lat": 20.0840126,
+      "lon": 74.1099929,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Niphad",
+        "addr:postcode": "422303",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Audumbar Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008849,
+      "lat": 20.5472361,
+      "lon": 74.5358755,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ansar X-ray Clinic, Teen Qandeel, Near Shahi Masjid, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Excel Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008850,
+      "lat": 20.6382423,
+      "lon": 74.4569952,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Vadel",
+        "addr:postcode": "423206",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Om Sai Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008851,
+      "lat": 20.6005081,
+      "lon": 74.2010511,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Nagpur Road, Mitra Nagar, Satana",
+        "addr:postcode": "423301",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Yashodhan Multispeciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008852,
+      "lat": 20.592854,
+      "lon": 74.202322,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ambedkar Nagar, Satana",
+        "addr:postcode": "423301",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. V D Patil Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008853,
+      "lat": 20.079755,
+      "lon": 74.110361,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Niphad",
+        "addr:postcode": "422303",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Janseva Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008854,
+      "lat": 20.553917,
+      "lon": 74.518887,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "1st Floor, Balaji Arcade, 60 Feet Road, Soygaon, Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Om Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008855,
+      "lat": 20.5555549,
+      "lon": 74.5476427,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Malegaon",
+        "addr:postcode": "423203",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Islah Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655008856,
+      "lat": 20.5595834,
+      "lon": 74.5222662,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Camp Road, Near Deepak Talkies, Vardhaman Nagar, Malegaon",
+        "addr:postcode": "423105",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mangulkar Eye Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439012,
+      "lat": 19.998867,
+      "lon": 73.7761976,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Tilak Wadi Road, Police Staff Colony, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Spandan Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439014,
+      "lat": 19.965107,
+      "lon": 73.781978,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Nursing College, Indira Nagar, Wadala - Pathardi Road, Shraddha Vihar, Nashik",
+        "addr:postcode": "422501",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ashirwad Nursing Home",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439015,
+      "lat": 20.0119992,
+      "lon": 73.7630317,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Maniknagar, Opp Shivstya Ground, Gangapur Road, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gawale Maternity Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439016,
+      "lat": 19.96795,
+      "lon": 73.759779,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Pelican Park, Vijay Nagar Stop, Cidco, Nashik",
+        "addr:postcode": "422009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Swami Criticare Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439017,
+      "lat": 19.9713382,
+      "lon": 73.754374,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Pavan Nagar Road, Pavan Nagar Road, Shreeram Nagar, Cidco, Nashik",
+        "addr:postcode": "422010",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Eshwar Krupa Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439018,
+      "lat": 20.0037033,
+      "lon": 73.7745358,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Arihant polyclinic, Next to Anand laundry, Near Jyoti Book Stores, New Pandit Coloney, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Safafalya Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439019,
+      "lat": 19.9679023,
+      "lon": 73.7776973,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Kanifnath Nagar, Kishor Nagar, Nashik",
+        "addr:postcode": "422009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bora Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439020,
+      "lat": 20.009976,
+      "lon": 73.806428,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Adgaon Naka, Shree Dwaraka Nagari, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Super Specialist Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439023,
+      "lat": 19.990491,
+      "lon": 73.7757129,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Chandak Circle, Tidke Colony, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Optimus Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439024,
+      "lat": 19.9998084,
+      "lon": 73.7895939,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Dudh Bazar, Old Nashik, Nashik",
+        "addr:postcode": "422001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nasim Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439026,
+      "lat": 19.989747,
+      "lon": 73.800939,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Kathe Lane, Near Kathe Galli Road, Dwarka, Nashik",
+        "addr:postcode": "422011",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Naik Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439027,
+      "lat": 19.9906431,
+      "lon": 73.7833378,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gurudwara Road, Near Sandeep Hotel, Shingada Talav, Mumbai Naka, Nashik",
+        "addr:postcode": "422011",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Vimal Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439029,
+      "lat": 19.9913697,
+      "lon": 73.7782432,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mumbai Naka, Matoshree Nagar, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sonawane Heart Care Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439030,
+      "lat": 19.9965967,
+      "lon": 73.7800892,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Trambakeshwar Road, Opp. New CBS, Matoshree Nagar, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dhadiwal Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439031,
+      "lat": 19.987784,
+      "lon": 73.783908,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Suyojit City Center, Opp Mahamarg Bus Stand, Mumbai Naka, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shatabdi Super Speciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439032,
+      "lat": 19.991552,
+      "lon": 73.779366,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shri Hari Narayan Kute Marg, Near Mumbai Naka, Matoshree Nagar, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Vedant Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439033,
+      "lat": 20.0063819,
+      "lon": 73.7690497,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gajanan Annex, Patil Lane Number 1, Near Magnum Hospital, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Supreme Maternity Hospital and Laproscopy Centre",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439034,
+      "lat": 19.9554634,
+      "lon": 73.7629626,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Surya Avenue, Above State Bank of India, Dnyaneshwar Nagar, Pathardi Phata, Nashik",
+        "addr:postcode": "422010",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Saptashrungi Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439035,
+      "lat": 19.9772489,
+      "lon": 73.7790988,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Agra Highway, Prasanna Colony, Indira Nagar, Behind Surya Hotel, Nashik",
+        "addr:postcode": "422009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Yash Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439036,
+      "lat": 19.9907761,
+      "lon": 73.7996295,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "First Floor, Jagir Complex, Opposite Maruti Temple, Kath, Nashik",
+        "addr:postcode": "422011",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shraddha Piles Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439037,
+      "lat": 19.9883366,
+      "lon": 73.7775347,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Mahamarg Bus Stand, Next to Tupsakhare Lawns, Mumbai Naka, Tidke Colony, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nelson Memorial Children's Hospital Private Limited",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439039,
+      "lat": 19.981183,
+      "lon": 73.777323,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sheetal Avenue, Rajmata Jijau Marg, Govind Nagar, Nashik",
+        "addr:postcode": "422009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Aghor Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439040,
+      "lat": 19.9913482,
+      "lon": 73.7790415,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Behind Sandeep Hotel, Shri Hari Narayan Kute Marg, Tidke Colony, Nashik",
+        "addr:postcode": "422001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sopan Hospital & Neurology Institute",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439041,
+      "lat": 20.0098307,
+      "lon": 73.8059734,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Abhang Nagar, Om Nagar, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ahirrao Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439042,
+      "lat": 19.9881764,
+      "lon": 73.7786861,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sunyan, Behind Tupsakhare Lawn, Mumbai Naka, Tidke Colony, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mayara Maternity Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439043,
+      "lat": 19.9936935,
+      "lon": 73.7937126,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dwarka Sarda Circle Link Road, Wadala Naka, Renuka Nagar, Nashik",
+        "addr:postcode": "422007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Suryodaya Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439045,
+      "lat": 19.9994333,
+      "lon": 73.768236,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sharanpur Trimbak Link Road, Near Kaunda Corner, Sanjeevan Colony, Opp. Sant Andrea Church, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ramole Eye Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439046,
+      "lat": 20.005054,
+      "lon": 73.7778621,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Old Pandit Colony, Gangapur Road, Near KTHM College, Police Staff Colony, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Deogaonkar Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439047,
+      "lat": 20.0049837,
+      "lon": 73.7759148,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Chandrahans Apartment, Gangapur Road, Opposite Anand Laundry, New Pandit Colony, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Geetha Children's Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439048,
+      "lat": 19.995133,
+      "lon": 73.804476,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sheetal Society, Opp. Shankar Nagar, Takli Road, Dwarka, Nashik",
+        "addr:postcode": "422011",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "More Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439051,
+      "lat": 20.0150416,
+      "lon": 73.7970225,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Hira Ratan, Near Mahalxmi Theater, Aanad Rushji Marg, Dindori Road, Panchavati, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Chopda Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439052,
+      "lat": 20.0120174,
+      "lon": 73.8160322,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Swaminarayan Nagar, Panchavati, Near Lunge Mangal Karyalaya, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Apollo Hospitals",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439053,
+      "lat": 20.0118417,
+      "lon": 73.7604501,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gangapur Road, Shramik Nagar, S.T. Colony, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Upadhye Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439054,
+      "lat": 19.98369,
+      "lon": 73.7987424,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shri Krushna Hospital, Happy Home Colony, Gulshan Colony, Nashi",
+        "addr:postcode": "422011",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shri Krushna Maternity Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439055,
+      "lat": 19.9888813,
+      "lon": 73.7770275,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Opposite Tupsakhre Lawns, Mumbai Naka, Matoshree Nagar, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Manas Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439056,
+      "lat": 19.9911397,
+      "lon": 73.7937187,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Wadala Road, Basement Raza Classic, Nashik",
+        "addr:postcode": "422011",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Metro Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439057,
+      "lat": 20.0091856,
+      "lon": 73.8028245,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Hari Krishna Plaza, Old Adgaon Naka, Opp Panchavati Bus Depot, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sadguru Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439058,
+      "lat": 19.9920722,
+      "lon": 73.809342,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Anusuya Nagar, Nashik",
+        "addr:postcode": "422011",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Chetna Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439059,
+      "lat": 19.9829918,
+      "lon": 73.7542889,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Kamatwade Road, Near Bakers Corner, Trimurti Chowk, Durganagar, Nashik",
+        "addr:postcode": "422008",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Aaditya Children's Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439060,
+      "lat": 19.9683919,
+      "lon": 73.7530445,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Bus Stop, Uttam Nagar, Nashik",
+        "addr:postcode": "422010",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Kalpataru Multispeciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439061,
+      "lat": 19.9829152,
+      "lon": 73.797526,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Pakhal Road, Ashoka Colony, Opposite Kalpana Chawla Medical College, Nashik",
+        "addr:postcode": "422006",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shri Hari Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439062,
+      "lat": 19.9881466,
+      "lon": 73.7782077,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mumbai Naka, Matoshree Nagar, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Saru Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439064,
+      "lat": 20.014527,
+      "lon": 73.795949,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dindori Road, Panchavati, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sahara Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439066,
+      "lat": 19.969313,
+      "lon": 73.754789,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Pelican Park Road, Cidco College, Uttam Nagar, Nashik",
+        "addr:postcode": "422009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Tirupati Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439067,
+      "lat": 20.0030284,
+      "lon": 73.7697917,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "College Road, Adwait Colony, Canada Corner, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shraddha Hospital And Maternity Home",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439068,
+      "lat": 20.0128514,
+      "lon": 73.7630754,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Manik Nagar, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Joshi Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439069,
+      "lat": 19.991668,
+      "lon": 73.780092,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mumbai Naka, Matoshree Nagar, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Rainbow Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439071,
+      "lat": 19.9721205,
+      "lon": 73.7863675,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Savarkar Chowk, Near Shri Swami Samarth Kendra, Indira Nagar, Nashik",
+        "addr:postcode": "422009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shivom Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439072,
+      "lat": 19.9642261,
+      "lon": 73.7698069,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Chetana Nagar, Rane Nagar, Nashi",
+        "addr:postcode": "422501",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439073,
+      "lat": 19.9825454,
+      "lon": 73.7794441,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Govind Nagar Road, Govind Nagar, Nashik",
+        "addr:postcode": "422009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Navkar Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439074,
+      "lat": 20.0025596,
+      "lon": 73.7714078,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Turning Point Building, Sharanpur Road, Opposite Telecom Office, Canada Corner, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Chaitanya Hospital & Research Centre Private limited",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439075,
+      "lat": 20.0054694,
+      "lon": 73.7647239,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "College Road, Near Suman Hospital, Ramdas Colony, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Suman Symphony Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439076,
+      "lat": 20.007263,
+      "lon": 73.7584626,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "College Road, Kalpana Nagar, Krishi Nagar, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Baste Maternity Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439077,
+      "lat": 19.9913382,
+      "lon": 73.778253,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shri Hari Narayan Kute Marg, Near Baba Dargah, Mumbai Naka, Tidke Colony, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Wellcare Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439079,
+      "lat": 19.9834961,
+      "lon": 73.7809527,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Mumbai Naka, Govind Nagar, Nashik",
+        "addr:postcode": "422009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sankalecha Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439080,
+      "lat": 19.987582,
+      "lon": 73.785933,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Near Rashtravadi Bhavan, Bhabha Nagar Road, Opp. Shivam Auto Showroom, Nashik",
+        "addr:postcode": "422011",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Fortune Multispeciality Hospital and Research Centre",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439081,
+      "lat": 19.991184,
+      "lon": 73.783488,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "City Plaza Third Floor, Old Agra Road, Opposite Kalika Mandir, Nashik",
+        "addr:postcode": "422001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Kilbil Children Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439082,
+      "lat": 19.973565,
+      "lon": 73.791407,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sawata Mali Road, Parab Nagar, Nashik",
+        "addr:postcode": "422209",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ashoka Medicover Hospitals",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439083,
+      "lat": 20.0098222,
+      "lon": 73.8058064,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Panchavati Road, Near Old Adgon Naka, Abhang Nagar, Shree Dwaraka Nagari, Nashik",
+        "addr:postcode": "422003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Seva Superspeciality Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439084,
+      "lat": 19.9725945,
+      "lon": 73.7866612,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Parab Nagar, Indira Nagar, Nashik",
+        "addr:postcode": "422009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "M H Pawar Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439086,
+      "lat": 20.006876,
+      "lon": 73.7627884,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "College Road, Opp. B.Y.K. College, Near Yog Vidyadham, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Kaushalya Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439087,
+      "lat": 19.9922344,
+      "lon": 73.7823886,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "City Plaza, Opp. Kalika Mandir, Old Agra Road, Mumbai Naka, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sudarshan Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439088,
+      "lat": 19.9691554,
+      "lon": 73.7553655,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shravan Sector, Uttamnagar, Cidco, Nashik",
+        "addr:postcode": "422009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Darade Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439089,
+      "lat": 20.0097601,
+      "lon": 73.7637039,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gangapur Road, Thatte Nagar, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "NIMS Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439090,
+      "lat": 19.981838,
+      "lon": 73.7551263,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Trimurti-Kamatwade Road, Durganagar, Nashik",
+        "addr:postcode": "422008",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Shyam Chaudhari Children Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439091,
+      "lat": 20.0041732,
+      "lon": 73.7667513,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dolly House, College Road, Vise Mala, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Malpani Maternity Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439092,
+      "lat": 19.984143,
+      "lon": 73.801884,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Lingayat Colony, Nashik - Pune Road, Behind Hotel Siddharth, Nashik",
+        "addr:postcode": "422011",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gondhale Hospital ENT, Eye & Maternity Home",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439093,
+      "lat": 19.9716262,
+      "lon": 73.7544991,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ambad-Trimurti Chowk Link Road, Lokmanya Nagar, Pawan Nagar, Nashik",
+        "addr:postcode": "422007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ishwar Krupa Maternity Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439094,
+      "lat": 20.0003009,
+      "lon": 73.7728538,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sharanpur Road, Behind Kulkarni Garden, Racca Colony, Jejurkar Wadi, Kulkarni Colony, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mehta Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439095,
+      "lat": 20.0031065,
+      "lon": 73.7695214,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Janki Vilas Apartment, Vise Mala, Adwait Colony, Canada Corner, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Little Angels Child Clinic",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439096,
+      "lat": 19.995506,
+      "lon": 73.803426,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Dwarka, Nashik",
+        "addr:postcode": "422011",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Yash Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439097,
+      "lat": 20.0058578,
+      "lon": 73.7757959,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Gangapur Road, Murkute Colony, Thakkar Nagar, New Pandit Colony, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Apex Wellness Rishikesh Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439098,
+      "lat": 19.9730585,
+      "lon": 73.7668554,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Rana Pratap Chowk, New Cidco, Nashik",
+        "addr:postcode": "422009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Snehal Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439099,
+      "lat": 19.9935639,
+      "lon": 73.8096141,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Samarth Heights, Tapovan, Link Road, Near Jay Shankar Lawns, Dwarka, Nashik",
+        "addr:postcode": "422011",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Kadale Baba Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439101,
+      "lat": 19.9740591,
+      "lon": 73.7864378,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Wadala - Pathardi Road, Near Bapu Bunglow, Kala Nagar, Indira Nagar, Nashik",
+        "addr:postcode": "422009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shatayushi Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439102,
+      "lat": 19.9882727,
+      "lon": 73.7778731,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Shri Hari Narayan Kute Marg, Mumbai Naka, Matoshree Nagar, Nashik",
+        "addr:postcode": "422002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Prapti Women's Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439104,
+      "lat": 20.0109153,
+      "lon": 73.7964361,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Bus Stop, Near Sakal Cinema, Ashok Stambh Circle, Gole Colony, Nashik",
+        "addr:postcode": "422001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Leelavati Hospital & Research Centre",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439105,
+      "lat": 19.9684731,
+      "lon": 73.7592265,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Saibaba Nagar, Cidco, Nashik",
+        "addr:postcode": "422010",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nitin Hospital and Medical",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7655439106,
+      "lat": 20.0040129,
+      "lon": 73.7647602,
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Anshumali Tower, Godavari Colony HPT, College Road, Behind Big Bazar, Nashik",
+        "addr:postcode": "422005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nivedita Maternity Home",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7935282000,
+      "lat": 20.6690076,
+      "lon": 73.4760448,
+      "tags": {
+        "addr:full": "Deogaon, Maharashtra 422211",
+        "amenity": "hospital",
+        "name": "Government Hospital Pangarne"
+      }
+    },
+    {
+      "type": "way",
+      "id": 229989763,
+      "nodes": [
+        2385252934,
+        2385252953,
+        2385252962,
+        2385252901,
+        2385252934
+      ],
+      "tags": {
+        "amenity": "hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 284592182,
+      "nodes": [
+        2883124246,
+        2883124247,
+        2883124248,
+        2883124249,
+        2883124250,
+        2883124251,
+        2883124246
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "name": "Government hospital Umrale Bk."
+      }
+    },
+    {
+      "type": "way",
+      "id": 325219308,
+      "nodes": [
+        3318873511,
+        3318873512,
+        3318873513,
+        3318873514,
+        3318873515,
+        3318873516,
+        3318873517,
+        3318873518,
+        3318873519,
+        3318873520,
+        3318873521,
+        3318873522,
+        3318873511
+      ],
+      "tags": {
+        "addr:city": "Nashik",
+        "addr:district": "Nashik",
+        "addr:full": "Plot No 13,14/199, Tilak Road, Rajebahadur Lane",
+        "addr:postcode": "422001",
+        "addr:state": "Maharashtra",
+        "addr:street": "Shalimar",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:levels": "3",
+        "name": "Rajebahadur Hospital and Research Centre Pvt. Ltd.",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "way",
+      "id": 574967037,
+      "nodes": [
+        5518011258,
+        5518011259,
+        5518011260,
+        5518011261,
+        5518011258
+      ],
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Sai Nagar Rto Corner, Dindori Road, Sai Nagar, Panchavati, Near Meri",
+        "addr:postcode": "422004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "building": "hospital",
+        "name": "Tanmayee Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607737677,
+      "nodes": [
+        5758931872,
+        5758931873,
+        5758931874,
+        5758931875,
+        5758931872
+      ],
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Ashok Stambh,Gangapur Road,Prasad Circle",
+        "addr:postcode": "422002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Kasliwal Superspeciality Hospital",
+        "source": "OpenGovernmentData",
+        "website": "kasliwalhospital.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607743577,
+      "nodes": [
+        5758975162,
+        5758975163,
+        5758975164,
+        5758975165,
+        5758975162
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Shree Guruji Hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 828242728,
+      "nodes": [
+        7732179069,
+        7732179068,
+        7649608328,
+        7732179067,
+        7732179069
+      ],
+      "tags": {
+        "addr:district": "Nashik",
+        "addr:full": "Old Mumbai-Agra Road, Dr.Babasaheb Ambedkar Nagar, Igatpuri",
+        "addr:postcode": "422403",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Central Railway Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7649608328,
+      "lat": 19.6953446,
+      "lon": 73.5541052
+    },
+    {
+      "type": "node",
+      "id": 7732179067,
+      "lat": 19.6949153,
+      "lon": 73.551439
+    },
+    {
+      "type": "node",
+      "id": 7732179068,
+      "lat": 19.6944203,
+      "lon": 73.5543466
+    },
+    {
+      "type": "node",
+      "id": 7732179069,
+      "lat": 19.6939405,
+      "lon": 73.5515624
+    },
+    {
+      "type": "node",
+      "id": 5758975164,
+      "lat": 20.0111913,
+      "lon": 73.7490254
+    },
+    {
+      "type": "node",
+      "id": 5758975165,
+      "lat": 20.011224,
+      "lon": 73.7483763
+    },
+    {
+      "type": "node",
+      "id": 5758975162,
+      "lat": 20.0120356,
+      "lon": 73.7483897
+    },
+    {
+      "type": "node",
+      "id": 5758975163,
+      "lat": 20.0120255,
+      "lon": 73.7490388
+    },
+    {
+      "type": "node",
+      "id": 5758931872,
+      "lat": 20.0109715,
+      "lon": 73.7611679
+    },
+    {
+      "type": "node",
+      "id": 5758931873,
+      "lat": 20.0107901,
+      "lon": 73.7618814
+    },
+    {
+      "type": "node",
+      "id": 5758931874,
+      "lat": 20.0106237,
+      "lon": 73.7618277
+    },
+    {
+      "type": "node",
+      "id": 5758931875,
+      "lat": 20.0108001,
+      "lon": 73.7611143
+    },
+    {
+      "type": "node",
+      "id": 3318873512,
+      "lat": 20.0026332,
+      "lon": 73.7868567
+    },
+    {
+      "type": "node",
+      "id": 3318873511,
+      "lat": 20.0030163,
+      "lon": 73.7869975
+    },
+    {
+      "type": "node",
+      "id": 3318873513,
+      "lat": 20.0024858,
+      "lon": 73.7869961
+    },
+    {
+      "type": "node",
+      "id": 3318873514,
+      "lat": 20.0025047,
+      "lon": 73.7870565
+    },
+    {
+      "type": "node",
+      "id": 3318873515,
+      "lat": 20.0026547,
+      "lon": 73.7871088
+    },
+    {
+      "type": "node",
+      "id": 3318873516,
+      "lat": 20.0026509,
+      "lon": 73.787153
+    },
+    {
+      "type": "node",
+      "id": 3318873517,
+      "lat": 20.0026963,
+      "lon": 73.7871463
+    },
+    {
+      "type": "node",
+      "id": 3318873518,
+      "lat": 20.0029118,
+      "lon": 73.7871906
+    },
+    {
+      "type": "node",
+      "id": 3318873519,
+      "lat": 20.0029244,
+      "lon": 73.7871745
+    },
+    {
+      "type": "node",
+      "id": 3318873520,
+      "lat": 20.002942,
+      "lon": 73.7871772
+    },
+    {
+      "type": "node",
+      "id": 3318873521,
+      "lat": 20.0029483,
+      "lon": 73.7871611
+    },
+    {
+      "type": "node",
+      "id": 3318873522,
+      "lat": 20.0029798,
+      "lon": 73.7871597
+    },
+    {
+      "type": "node",
+      "id": 2385252901,
+      "lat": 20.0042369,
+      "lon": 73.8035156
+    },
+    {
+      "type": "node",
+      "id": 2385252934,
+      "lat": 20.004519,
+      "lon": 73.8036202
+    },
+    {
+      "type": "node",
+      "id": 2385252953,
+      "lat": 20.0044393,
+      "lon": 73.8039131
+    },
+    {
+      "type": "node",
+      "id": 2385252962,
+      "lat": 20.0041409,
+      "lon": 73.8038187
+    },
+    {
+      "type": "node",
+      "id": 5518011258,
+      "lat": 20.0329071,
+      "lon": 73.8054735
+    },
+    {
+      "type": "node",
+      "id": 5518011259,
+      "lat": 20.0327476,
+      "lon": 73.8054514
+    },
+    {
+      "type": "node",
+      "id": 5518011260,
+      "lat": 20.0327239,
+      "lon": 73.8056402
+    },
+    {
+      "type": "node",
+      "id": 5518011261,
+      "lat": 20.0329012,
+      "lon": 73.8056622
+    },
+    {
+      "type": "node",
+      "id": 2883124246,
+      "lat": 20.1939587,
+      "lon": 73.7177948
+    },
+    {
+      "type": "node",
+      "id": 2883124247,
+      "lat": 20.1931985,
+      "lon": 73.7187979
+    },
+    {
+      "type": "node",
+      "id": 2883124248,
+      "lat": 20.1927655,
+      "lon": 73.7183527
+    },
+    {
+      "type": "node",
+      "id": 2883124249,
+      "lat": 20.1929744,
+      "lon": 73.7181139
+    },
+    {
+      "type": "node",
+      "id": 2883124250,
+      "lat": 20.1927453,
+      "lon": 73.7178377
+    },
+    {
+      "type": "node",
+      "id": 2883124251,
+      "lat": 20.1931934,
+      "lon": 73.7172529
+    }
+  ]
+}

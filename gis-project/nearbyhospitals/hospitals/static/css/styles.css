@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 80px;
+}
+
+#hospitalList {
+  margin-bottom: 30px;
+}
+
+.main-btn {
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px;
+  border: 2px solid #000000;
+  color: #000000;
+  background: #ffffff;
+}
+
+ .main-btn:hover {
+  background: #11dbcf;
+  border: 2px solid #11dbcf;
+  text-decoration: none;
+  color:#fff;
+}

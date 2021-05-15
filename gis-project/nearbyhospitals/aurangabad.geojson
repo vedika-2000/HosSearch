@@ -1,0 +1,5038 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-05-13T10:35:48Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307397505",
+        "addr:city": "Aurangabad",
+        "addr:postcode": "431101",
+        "addr:street": "Gajanan colony, Garkheda",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Gadhe hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.3522062,
+              19.8674828
+            ],
+            [
+              75.3522005,
+              19.8675628
+            ],
+            [
+              75.3520921,
+              19.867556
+            ],
+            [
+              75.3520978,
+              19.867476
+            ],
+            [
+              75.3522062,
+              19.8674828
+            ]
+          ]
+        ]
+      },
+      "id": "way/307397505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307397689",
+        "addr:city": "Aurangabad",
+        "addr:district": "Aurangabad",
+        "addr:full": "Near Panchakki Road, Jublee Park, Begum Pura Extension, Naralibag",
+        "addr:postcode": "431004",
+        "addr:state": "Maharashtra",
+        "addr:street": "Panchakki Road",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Govt Medical College & Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.3186047,
+              19.8939177
+            ],
+            [
+              75.318481,
+              19.8938718
+            ],
+            [
+              75.3183111,
+              19.8938981
+            ],
+            [
+              75.317823,
+              19.8937282
+            ],
+            [
+              75.3172487,
+              19.8934512
+            ],
+            [
+              75.3170552,
+              19.8931964
+            ],
+            [
+              75.3169219,
+              19.8925715
+            ],
+            [
+              75.316524,
+              19.8911498
+            ],
+            [
+              75.3161885,
+              19.8905735
+            ],
+            [
+              75.3161627,
+              19.8901811
+            ],
+            [
+              75.3165433,
+              19.8900416
+            ],
+            [
+              75.3164702,
+              19.8895906
+            ],
+            [
+              75.3176605,
+              19.8883862
+            ],
+            [
+              75.3180622,
+              19.8880293
+            ],
+            [
+              75.3183775,
+              19.8877906
+            ],
+            [
+              75.3186805,
+              19.8876869
+            ],
+            [
+              75.3189889,
+              19.8876554
+            ],
+            [
+              75.3197277,
+              19.88766
+            ],
+            [
+              75.3197376,
+              19.8882919
+            ],
+            [
+              75.3200269,
+              19.888289
+            ],
+            [
+              75.3200178,
+              19.8888516
+            ],
+            [
+              75.3199698,
+              19.8888594
+            ],
+            [
+              75.3200277,
+              19.8895165
+            ],
+            [
+              75.3200611,
+              19.8899829
+            ],
+            [
+              75.320207,
+              19.89021
+            ],
+            [
+              75.3203343,
+              19.890171
+            ],
+            [
+              75.3202797,
+              19.8903991
+            ],
+            [
+              75.3203137,
+              19.8907572
+            ],
+            [
+              75.3203745,
+              19.89078
+            ],
+            [
+              75.3204212,
+              19.8909695
+            ],
+            [
+              75.3204849,
+              19.8915339
+            ],
+            [
+              75.3206624,
+              19.8915478
+            ],
+            [
+              75.3220407,
+              19.891291
+            ],
+            [
+              75.322193,
+              19.8914251
+            ],
+            [
+              75.3224198,
+              19.8915214
+            ],
+            [
+              75.3224673,
+              19.8922057
+            ],
+            [
+              75.3216478,
+              19.8923506
+            ],
+            [
+              75.3210917,
+              19.8925364
+            ],
+            [
+              75.3204697,
+              19.8929613
+            ],
+            [
+              75.319903,
+              19.8934596
+            ],
+            [
+              75.3197123,
+              19.8935066
+            ],
+            [
+              75.3196428,
+              19.8932159
+            ],
+            [
+              75.3191123,
+              19.8933672
+            ],
+            [
+              75.319233,
+              19.8937595
+            ],
+            [
+              75.3186047,
+              19.8939177
+            ]
+          ]
+        ]
+      },
+      "id": "way/307397689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/317146373",
+        "amenity": "hospital",
+        "name": "Cancer Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.3279075,
+              19.8917527
+            ],
+            [
+              75.3282709,
+              19.8915033
+            ],
+            [
+              75.3285833,
+              19.8915345
+            ],
+            [
+              75.328874,
+              19.8910861
+            ],
+            [
+              75.3300381,
+              19.8915945
+            ],
+            [
+              75.3295077,
+              19.8924409
+            ],
+            [
+              75.3295013,
+              19.8925524
+            ],
+            [
+              75.3290295,
+              19.8926843
+            ],
+            [
+              75.3289556,
+              19.8926939
+            ],
+            [
+              75.3288995,
+              19.8926699
+            ],
+            [
+              75.3287146,
+              19.8924625
+            ],
+            [
+              75.328452,
+              19.8922179
+            ],
+            [
+              75.3279075,
+              19.8917527
+            ]
+          ]
+        ]
+      },
+      "id": "way/317146373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/317952195",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plot Ni. 647, Shivneri Nagar Beside Jawahar Nagar, Police Station , Garkheda Parisar",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Manik Hospital and Research Center Pvt Ltd",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.3475781,
+              19.8653717
+            ],
+            [
+              75.3478744,
+              19.8653996
+            ],
+            [
+              75.3478436,
+              19.8656887
+            ],
+            [
+              75.3475473,
+              19.8656608
+            ],
+            [
+              75.3475781,
+              19.8653717
+            ]
+          ]
+        ]
+      },
+      "id": "way/317952195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/416828491",
+        "addr:district": "Aurangabad",
+        "addr:full": "N6, Cidco Jalna Road, Aurangabad, Marathwada",
+        "addr:postcode": "431003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Mahatma Gandhi Mission Medical College and Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.3534828,
+              19.877387
+            ],
+            [
+              75.3550136,
+              19.8771643
+            ],
+            [
+              75.3551426,
+              19.8783909
+            ],
+            [
+              75.3535382,
+              19.8784472
+            ],
+            [
+              75.3534828,
+              19.877387
+            ]
+          ]
+        ]
+      },
+      "id": "way/416828491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2678526405",
+        "amenity": "hospital",
+        "name": "municipal hospital for women & child"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3594412,
+          19.8918831
+        ]
+      },
+      "id": "node/2678526405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3231049528",
+        "amenity": "hospital",
+        "name": "Mundada Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3477438,
+          19.8675651
+        ]
+      },
+      "id": "node/3231049528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3237468243",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plot No.9, ST Work Shop, Shriram Colony, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3199706,
+          19.8761032
+        ]
+      },
+      "id": "node/3237468243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3237523014",
+        "addr:city": "aurangabad",
+        "addr:street": "kanchanwadi  paithan road",
+        "amenity": "hospital",
+        "name": "shanti narsing home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2913435,
+          19.8357044
+        ]
+      },
+      "id": "node/3237523014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3239033694",
+        "amenity": "hospital",
+        "name": "Shrikrishna Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3221279,
+          19.8758925
+        ]
+      },
+      "id": "node/3239033694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3240679062",
+        "amenity": "hospital",
+        "name": "Khanale Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3231341,
+          19.8819257
+        ]
+      },
+      "id": "node/3240679062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3240679063",
+        "amenity": "hospital",
+        "name": "Nayan Eye s Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3228855,
+          19.8790308
+        ]
+      },
+      "id": "node/3240679063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3242148488",
+        "amenity": "hospital",
+        "name": "Aayurvedic hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3225391,
+          19.8766439
+        ]
+      },
+      "id": "node/3242148488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4294633290",
+        "addr:housenumber": "12",
+        "addr:postcode": "431005",
+        "addr:street": "Pundlik Nagar road",
+        "amenity": "hospital",
+        "name": "Jijai Hospital",
+        "opening_hours": "Mo-Sa 11:00-22:00",
+        "phone": "02402442255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3519011,
+          19.8675942
+        ]
+      },
+      "id": "node/4294633290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4336746582",
+        "addr:city": "Aurangabad,Maharashtra",
+        "addr:district": "Aurangabad",
+        "addr:full": "29, Venkateshnagar Mehesh Nagar Road Opposite Jalna Road",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "addr:street": "Venkateshnagar,near Maheshnagar",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Dr. Totla Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3474187,
+          19.8786737
+        ]
+      },
+      "id": "node/4336746582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4336753811",
+        "addr:city": "Aurangabad,Maharashtra",
+        "addr:street": "Venkateshnagar, near Mahaeshnagar",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sarda Diabetes Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.347669,
+          19.8784701
+        ]
+      },
+      "id": "node/4336753811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4336771355",
+        "addr:city": "Aurangabad,Maharashtra",
+        "addr:street": "Maheshnagar Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Soni Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3471098,
+          19.8773987
+        ]
+      },
+      "id": "node/4336771355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4336781346",
+        "addr:city": "Aurangabad,Maharashtra",
+        "addr:street": "Jalna Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ciigma Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3482109,
+          19.8771206
+        ]
+      },
+      "id": "node/4336781346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4344325426",
+        "amenity": "hospital",
+        "name": "Mauli Kripa Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2921648,
+          19.8826051
+        ]
+      },
+      "id": "node/4344325426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463285568",
+        "addr:district": "Aurangabad",
+        "addr:full": "3, Raghuvir Nagar Opp: Sfs High School Jalna Road",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ciigma Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3363542,
+          19.859406
+        ]
+      },
+      "id": "node/4463285568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463316636",
+        "addr:district": "Aurangabad",
+        "addr:full": "Veer Savarkar Chowk, Tilaknagar, Ulkanagari, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Roplekar Heart Care Centre Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3368435,
+          19.8663541
+        ]
+      },
+      "id": "node/4463316636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4861237121",
+        "amenity": "hospital",
+        "name:en": "Krupamayi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3146969,
+          19.8723956
+        ]
+      },
+      "id": "node/4861237121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5065993560",
+        "addr:city": "Aurangabad",
+        "addr:district": "Aurangabad",
+        "addr:full": "Gut No.43, Satara Parisar, Bajaj Marg, Beed Bypass Road",
+        "addr:housenumber": "Gut 43",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "addr:street": "Bajaj Rd. Beed Bypass Highway",
+        "amenity": "hospital",
+        "email": "kbh@bajajhospital.com",
+        "emergency": "yes",
+        "name": "Kamalnayan Bajaj Hospital",
+        "phone": "0240 237 7999",
+        "source": "OpenGovernmentData",
+        "website": "bajajhospital.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3149343,
+          19.851378
+        ]
+      },
+      "id": "node/5065993560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6896411652",
+        "amenity": "hospital",
+        "name": "Seth Nandlal Dhoot Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3874956,
+          19.872344
+        ]
+      },
+      "id": "node/6896411652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7042861969",
+        "addr:district": "Aurangabad",
+        "addr:full": "Opposite Anjali Big Cinema, Khadkeshwar",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Zavar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3222616,
+          19.8841627
+        ]
+      },
+      "id": "node/7042861969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043136201",
+        "addr:district": "Ahmednagar",
+        "addr:full": "Apna Bazar , Ljalna Road, Aurangabad, Nasik , Mumbai",
+        "addr:postcode": "422601",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr. Satish Mundada's Joint and Spine Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3465113,
+          19.8760466
+        ]
+      },
+      "id": "node/7043136201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043442978",
+        "addr:district": "Aurangabad",
+        "addr:full": "24, Jayvishwabharti Colony, Jawahar Colony Road, Near Chetak Horse Statue",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Bembde Plastic, Cosmetic, Burns and Hand Surgery Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3351161,
+          19.8498632
+        ]
+      },
+      "id": "node/7043442978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043509760",
+        "addr:district": "Aurangabad",
+        "addr:full": "55, Mahesh Nagar, Jalna Road, Near Akashwani Signal Near Bafna,S Showroom",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kabra Hospital - Aurangabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3469326,
+          19.8778
+        ]
+      },
+      "id": "node/7043509760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043970850",
+        "addr:district": "Aurangabad",
+        "addr:full": "Opposite Varad Ganesh Mandir, Near Central Bus Stand, Samarth Nagar",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Joshi Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.318308,
+          19.877935
+        ]
+      },
+      "id": "node/7043970850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7044225718",
+        "addr:district": "Aurangabad",
+        "addr:full": "Avishkar Colony,N-6, Cidco",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Krushnai Maternity and Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3604811,
+          19.882549
+        ]
+      },
+      "id": "node/7044225718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7044355176",
+        "addr:district": "Aurangabad",
+        "addr:full": "112, Beside Chate Coaching Classes, Shahanoormiyan Darga Road",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Varad Medical Foundation and Research Centre - Aurangabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.335914,
+          19.8618639
+        ]
+      },
+      "id": "node/7044355176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7044376955",
+        "addr:district": "Aurangabad",
+        "addr:full": "#7, Shivaji Colony,Near Kraint Chowk Police Station",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Shree Avadhoot Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3246863,
+          19.8759271
+        ]
+      },
+      "id": "node/7044376955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7044476750",
+        "addr:district": "Aurangabad",
+        "addr:full": "126, Madhushree Varad Ganesh Mandir Road, Samarth Nagar",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Wadgaonkar Eye Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3220926,
+          19.8785769
+        ]
+      },
+      "id": "node/7044476750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7048110384",
+        "addr:district": "Aurangabad",
+        "addr:full": "12-Susheel-Co-Op Hsg Societ Shreya Nagar Road",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Panat Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3314053,
+          19.8691265
+        ]
+      },
+      "id": "node/7048110384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7048261241",
+        "addr:district": "Aurangabad",
+        "addr:full": "Jalna Road, Motiwala Nagar",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Deshmukh Institute Of Maxillo-Facial Surgery and Research Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.347642,
+          19.8806427
+        ]
+      },
+      "id": "node/7048261241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7048439620",
+        "addr:district": "Aurangabad",
+        "addr:full": "Juna Bazar Road, Town Hall, Buddi lane, Naralibag, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "description": "Mother And Child Care",
+        "name": "Aurangabad Hospital Mother And Child Care",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3261414,
+          19.8891202
+        ]
+      },
+      "id": "node/7048439620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7048447090",
+        "addr:district": "Aurangabad",
+        "addr:full": "X,-59, Behind Fire Brigade Maharana Paratap Chowk Bajaj Nagar Midc Waluj",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Jeevanjyot Hospital, Aurangabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.242466,
+          19.8405945
+        ]
+      },
+      "id": "node/7048447090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7048885073",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plot No-6, Cidco N-12B",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Rasha Maternity and Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3463103,
+          19.9004471
+        ]
+      },
+      "id": "node/7048885073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7049182568",
+        "addr:district": "Aurangabad",
+        "addr:full": "No. 136, Samarth Nagar,Varad Ganesh Mandeer Road",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Janaki Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.321866,
+          19.8781027
+        ]
+      },
+      "id": "node/7049182568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7049308597",
+        "addr:district": "Aurangabad",
+        "addr:full": "Near M.S.E.B. Office, Khadkeshwar",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Prestige Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3252704,
+          19.876279
+        ]
+      },
+      "id": "node/7049308597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7049312411",
+        "addr:district": "Aurangabad",
+        "addr:full": "16, Behind Gurunanak Petrol Pump, Opposite S.F.S.School, Jalna Road",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Krishna Hospital and Icu",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3436951,
+          19.8778543
+        ]
+      },
+      "id": "node/7049312411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7049632189",
+        "addr:district": "Aurangabad",
+        "addr:full": "# 41/151/29, Opp:Anjali Cinema, Khadkeshwar",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sachin Hosptial",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3221811,
+          19.8838284
+        ]
+      },
+      "id": "node/7049632189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7049807217",
+        "addr:district": "Aurangabad",
+        "addr:full": "84, Motiwala Nagar,Central Naka Road",
+        "addr:postcode": "431003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Jilla Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.352934,
+          19.8782818
+        ]
+      },
+      "id": "node/7049807217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050159984",
+        "addr:district": "Aurangabad",
+        "addr:full": "Behind Kushal Nagar Post Office , Near Mondha Naka Signal, Jalna Road",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Chiranjeev Children Hospital and Critical Care Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3367737,
+          19.8743821
+        ]
+      },
+      "id": "node/7050159984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050589022",
+        "addr:district": "Aurangabad",
+        "addr:full": "1st , Shrinathji Apartment , Near Digjam Showroom, Osmanpura Roa , Kranti Chowk",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dongaonkar Superspeciality Eye Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3285876,
+          19.872209
+        ]
+      },
+      "id": "node/7050589022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050627819",
+        "addr:district": "Aurangabad",
+        "addr:full": "Chandranagar Society,M-2 Road",
+        "addr:postcode": "431003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Gurde Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.356158,
+          19.9003437
+        ]
+      },
+      "id": "node/7050627819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050863016",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plot No. 144,Sector F-4 Cidco",
+        "addr:postcode": "431003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "MIT Super Speiality Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3645315,
+          19.8677135
+        ]
+      },
+      "id": "node/7050863016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050872153",
+        "addr:district": "Aurangabad",
+        "addr:full": "OppositeAkashwai Jalna Road",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Jhunjhunwala Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3449115,
+          19.8770387
+        ]
+      },
+      "id": "node/7050872153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050872158",
+        "addr:district": "Aurangabad",
+        "addr:full": "Polt No8, Near Mukundwadi Police Station Opposite Pvr Talkies Jalna Road",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sahyadri Multispeciality Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3849767,
+          19.8714548
+        ]
+      },
+      "id": "node/7050872158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050872163",
+        "addr:district": "Aurangabad",
+        "addr:full": "Near Gajanan Mandir , Pundlik Nagar , Road Garkheda Parisar",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Mauli Children Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3514581,
+          19.8677451
+        ]
+      },
+      "id": "node/7050872163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050872168",
+        "addr:district": "Aurangabad",
+        "addr:full": "Gajanan Nagar Chowk, Garkheda",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Gade Hospital, Aurangabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3521145,
+          19.867384
+        ]
+      },
+      "id": "node/7050872168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050985925",
+        "addr:district": "Aurangabad",
+        "addr:full": "5-5-70, Opp Kailash Mangal Karyalaya , New Osmanpura , Kranti Chowk",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Citicare Superspeciality Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3294587,
+          19.871472
+        ]
+      },
+      "id": "node/7050985925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050985930",
+        "addr:district": "Aurangabad",
+        "addr:full": "1, Ellore Ct Scan Bld Jalana Road, Opposite SFS School",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Apex Superspeciality Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3472125,
+          19.8812954
+        ]
+      },
+      "id": "node/7050985930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050985935",
+        "addr:district": "Aurangabad",
+        "addr:full": "Central Jakat Naka Road, Near Marble Building",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Amaan Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3518786,
+          19.884401
+        ]
+      },
+      "id": "node/7050985935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050985940",
+        "addr:district": "Aurangabad",
+        "addr:full": "Opp Police Head Quarter , Mill Corner",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Shri Sai Hospital and Research Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3184632,
+          19.8852663
+        ]
+      },
+      "id": "node/7050985940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050985945",
+        "addr:district": "Aurangabad",
+        "addr:full": "73, Tilak Nagar.Near Balaji Mandir",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Mishra Children Hospital and Critical Care Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3383602,
+          19.8674742
+        ]
+      },
+      "id": "node/7050985945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050985950",
+        "addr:district": "Aurangabad",
+        "addr:full": "Beside Hotel J J Jubliee Park",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Naqshabandi Eye Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3389717,
+          19.8882605
+        ]
+      },
+      "id": "node/7050985950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050985958",
+        "addr:district": "Aurangabad",
+        "addr:full": "Maheshnagar,Jalana Road",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Soni Hospital, Aurangabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3472658,
+          19.877683
+        ]
+      },
+      "id": "node/7050985958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050985959",
+        "addr:district": "Aurangabad",
+        "addr:full": "9, Hotel Ashoka Compound, Opp Dist Court, Adalat Road",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dunakhe Hospital Pvt. Ltd.",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3214502,
+          19.8733946
+        ]
+      },
+      "id": "node/7050985959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051103936",
+        "addr:district": "Aurangabad",
+        "addr:full": "Rajshree Tower, First Floor, Nirala Bazar, Pethangate Road, Jijmata Colony",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Vision Care Laxmi Netralaya",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.327746,
+          19.8805847
+        ]
+      },
+      "id": "node/7051103936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051109533",
+        "addr:district": "Aurangabad",
+        "addr:full": "160161 Tilak Nagar Veer Savarkar Chowk",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Ruby Heart Care Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3197095,
+          19.8765827
+        ]
+      },
+      "id": "node/7051109533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051109538",
+        "addr:district": "Aurangabad",
+        "addr:full": "Dilras Colony Jublee Complex, Jublee Park, Bhadkalgate",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Farah Maternity and Infertility Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3234042,
+          19.8948884
+        ]
+      },
+      "id": "node/7051109538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051109543",
+        "addr:district": "Aurangabad",
+        "addr:full": "G 9 And 10, Malkhare Classic, Near Jawaharnaga Police Station",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sankalp Netra Ragnalaya and Refractive Surgery Cen",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3399951,
+          19.8626132
+        ]
+      },
+      "id": "node/7051109543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051109548",
+        "addr:district": "Aurangabad",
+        "addr:full": "Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Jijai Maternity and Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3503489,
+          19.8686887
+        ]
+      },
+      "id": "node/7051109548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051167342",
+        "addr:district": "Aurangabad",
+        "addr:full": "B Wing, Chetan Nagar",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Padmawati Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3372522,
+          19.8697906
+        ]
+      },
+      "id": "node/7051167342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051614372",
+        "addr:district": "Aurangabad",
+        "addr:full": "Shilpnagar, Station Road, Padampura",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dumir Maternity and Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.311856,
+          19.8673986
+        ]
+      },
+      "id": "node/7051614372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051686896",
+        "addr:district": "Aurangabad",
+        "addr:full": "Mayanagar, Jalna Road, N-2,Cidco",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Indian Academy Of Acupuncture Science",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3712052,
+          19.870862
+        ]
+      },
+      "id": "node/7051686896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051703840",
+        "addr:district": "Aurangabad",
+        "addr:full": "#8, Manjeet Nagar,Opposite Akashwani,Jacna Road",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kodlekeri Hospital and Trust",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3448257,
+          19.8781115
+        ]
+      },
+      "id": "node/7051703840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051944512",
+        "addr:district": "Aurangabad",
+        "addr:full": "Mitranagar, Near Gurudwara Gate, Mondha Naka, Jalana Road",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Advanced Ent and Multispeciality Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3502156,
+          19.8672428
+        ]
+      },
+      "id": "node/7051944512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7052035792",
+        "addr:district": "Aurangabad",
+        "addr:full": "#108, Samata Nagar,Adalot Road ,Near Water Tank",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Hitech Adhar Hospital and Critical Care Unit",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3255299,
+          19.873247
+        ]
+      },
+      "id": "node/7052035792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7052250238",
+        "addr:district": "Aurangabad",
+        "addr:full": "32, Shri Niketan Colony, Jalna Road",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Saoji Orthopaedic Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3192119,
+          19.884454
+        ]
+      },
+      "id": "node/7052250238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7052491890",
+        "addr:district": "Aurangabad",
+        "addr:full": "278,Samarth Nagar,OppositeVarad Ganesh Mandir",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Bagdia Maternity and Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3193393,
+          19.8783562
+        ]
+      },
+      "id": "node/7052491890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7053968693",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plot No-4, Adalat Road, Near Baba Petrol Pumps, Behind Raviraj Hotel, Bhagyanagar",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Palnitkar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3167859,
+          19.8743083
+        ]
+      },
+      "id": "node/7053968693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7054119231",
+        "addr:district": "Aurangabad",
+        "addr:full": "Lot No 02, /3 N-9 M-2 Road Ranjan One Housing Society Huddco",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Nimai Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3563055,
+          19.9009244
+        ]
+      },
+      "id": "node/7054119231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7054412498",
+        "addr:district": "Aurangabad",
+        "addr:full": "101, Tilaknagar",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "K C H Kandharkar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3391793,
+          19.8668067
+        ]
+      },
+      "id": "node/7054412498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7054446944",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plot No 5-6-19, New Osmanpura, Opp Sant Eknath Rang Mandir",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Chhabda Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3286949,
+          19.8698555
+        ]
+      },
+      "id": "node/7054446944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7054590989",
+        "addr:district": "Aurangabad",
+        "addr:full": "Samarth Nagar",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Guruprasad Eye Hospital - Aurangabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3221878,
+          19.8767375
+        ]
+      },
+      "id": "node/7054590989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7054804908",
+        "addr:district": "Aurangabad",
+        "addr:full": "Cidco",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sakolkar Charitable Hospital and Research Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3655437,
+          19.8829229
+        ]
+      },
+      "id": "node/7054804908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7054881054",
+        "addr:district": "Aurangabad",
+        "addr:full": "Opp Chetna Nagar,Marathwada",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Chobe Maternity and Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3362312,
+          19.8689865
+        ]
+      },
+      "id": "node/7054881054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7063909936",
+        "addr:district": "Aurangabad",
+        "addr:full": "No. 23-D, N-2, Behind Sohamm Motors, Jalna Road, Cidco",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Ekveera Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3745365,
+          19.8701897
+        ]
+      },
+      "id": "node/7063909936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7064867160",
+        "addr:district": "Aurangabad",
+        "addr:full": "30,Pushpanagari,OppositeS.T.Workshop",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Pargaonkar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3168885,
+          19.8766353
+        ]
+      },
+      "id": "node/7064867160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7066374785",
+        "addr:district": "Aurangabad",
+        "addr:full": "27, Ganesh Co-Op Hsg. Society N-8-A Cidco",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Kushal Maternity and Sonography Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3664919,
+          19.8703033
+        ]
+      },
+      "id": "node/7066374785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7067375171",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plotno. 25, Hotel Aurangabad Ashok Premises, Near Manmandir Travels",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Patne Hospital and Maternity Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3205182,
+          19.8734791
+        ]
+      },
+      "id": "node/7067375171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7070256128",
+        "addr:district": "Aurangabad",
+        "addr:full": "Near G.P.O. Juna Bazar",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Insha Surgical Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3262112,
+          19.888337
+        ]
+      },
+      "id": "node/7070256128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7070696543",
+        "addr:district": "Aurangabad",
+        "addr:full": "Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Shewale Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3355419,
+          19.8758546
+        ]
+      },
+      "id": "node/7070696543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7072544592",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plot No.1, Town Centre, Behind Raj Petrol Pump, Jalna Road, Cidco",
+        "addr:postcode": "431003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ranjalkar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3561721,
+          19.8767393
+        ]
+      },
+      "id": "node/7072544592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7073944651",
+        "addr:district": "Aurangabad",
+        "addr:full": "Banlilal Nagar,Station Road",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Patwardhan Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3140219,
+          19.8640561
+        ]
+      },
+      "id": "node/7073944651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7073944665",
+        "addr:district": "Aurangabad",
+        "addr:full": "Tilaknagar",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Ankur Maternity and Eye Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.33948,
+          19.8663315
+        ]
+      },
+      "id": "node/7073944665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7073949788",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plot No.19, N 3 Cidco,Behind Central Bank,In Front Of Jain Temple,Jalna Road",
+        "addr:postcode": "431002",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Moholkar Accident Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3613749,
+          19.8733643
+        ]
+      },
+      "id": "node/7073949788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7079392125",
+        "addr:district": "Aurangabad",
+        "addr:full": "Opposite Apex Hospital, Mahesh Nagar,Baijipura Road",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Yashoda Hospital and Maternity Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3519791,
+          19.8824084
+        ]
+      },
+      "id": "node/7079392125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7079411369",
+        "addr:district": "Aurangabad",
+        "addr:full": "Warad Ganesh Mandir Road,Samarth Nagar",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Drushti Eye Institute",
+        "source": "OpenGovernmentData",
+        "website": "drushtieyeinstitute.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3212705,
+          19.8782087
+        ]
+      },
+      "id": "node/7079411369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7080205201",
+        "addr:district": "Aurangabad",
+        "addr:full": "85/2A,Near Water Supply Gate",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr Pawar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.336193,
+          19.8694197
+        ]
+      },
+      "id": "node/7080205201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7080242533",
+        "addr:district": "Aurangabad",
+        "addr:full": "#1, Vishal Nagar, Gajanan Maharaj Mandir Road,Opposite Cada Office",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sai Urology Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.352246,
+          19.8715242
+        ]
+      },
+      "id": "node/7080242533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7080269624",
+        "addr:district": "Aurangabad",
+        "addr:full": "N-09, Ranjawan Society, Hudco",
+        "addr:postcode": "431003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dwarka Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3557114,
+          19.9020523
+        ]
+      },
+      "id": "node/7080269624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081375486",
+        "addr:district": "Aurangabad",
+        "addr:full": "30 Behind Ratnaprabha Motors",
+        "addr:postcode": "431001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Om Orthopedic Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3178118,
+          19.8743683
+        ]
+      },
+      "id": "node/7081375486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7082370211",
+        "addr:district": "Aurangabad",
+        "addr:full": "Choudhary Complex, Waluj",
+        "addr:postcode": "431136",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Ashtvinayak Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2500726,
+          19.8383208
+        ]
+      },
+      "id": "node/7082370211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085422794",
+        "addr:district": "Aurangabad",
+        "addr:full": "14, Kushalnagar Jalna Road, Behind J & K Bank,Near Patidar Bhavan",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Sanjeevani Children's Hospital",
+        "source": "OpenGovernmentData",
+        "website": "sanjeevanichildcare.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.336134,
+          19.8749169
+        ]
+      },
+      "id": "node/7085422794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085422858",
+        "addr:district": "Aurangabad",
+        "addr:full": "Jalna Road, Motiwala Nagar",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "St. Ann's Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3489643,
+          19.8728686
+        ]
+      },
+      "id": "node/7085422858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7086629017",
+        "addr:district": "Aurangabad",
+        "addr:full": "Jawahar Colony, Garkheda Road",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr. Hedgewar Rugnalya - Aurangabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3481811,
+          19.869095
+        ]
+      },
+      "id": "node/7086629017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7229312414",
+        "addr:district": "Aurangabad",
+        "addr:full": "Chikalthana amc, Near airport wall, Chikalthana",
+        "addr:postcode": "431003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "District Civil Hospital, Chikalthana",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3822879,
+          19.8816065
+        ]
+      },
+      "id": "node/7229312414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7229312428",
+        "addr:district": "Aurangabad",
+        "addr:postcode": "431007",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Rural Hospital, Karmad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.54712,
+          19.868807
+        ]
+      },
+      "id": "node/7229312428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7229312452",
+        "addr:district": "Aurangabad",
+        "addr:full": "Bhanudas Sabhahgrah Railway Station Road, Bansilal Nagar, Padampura",
+        "addr:postcode": "431005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Government Hospital, Bansilal Nagar",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3145153,
+          19.8659725
+        ]
+      },
+      "id": "node/7229312452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7229312463",
+        "addr:district": "Aurangabad",
+        "addr:full": "N 11 Cidco, Near Hindustan pertrol Pump, Ward No. 6, Yadavnagar",
+        "addr:postcode": "431003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "AMC Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.352348,
+          19.9124157
+        ]
+      },
+      "id": "node/7229312463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344920",
+        "addr:district": "Aurangabad",
+        "addr:full": "Bhanudas Sabhahgrah Railway Station Road, Rachanakar Colony, New Usmanpura",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Kothari Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3176152,
+          19.8630279
+        ]
+      },
+      "id": "node/7646344920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344930",
+        "addr:district": "Aurangabad",
+        "addr:full": "MIDC, Waluj, Aurangabad",
+        "addr:postcode": "431133",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Tirupati Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.248073,
+          19.836792
+        ]
+      },
+      "id": "node/7646344930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344933",
+        "addr:district": "Aurangabad",
+        "addr:full": "Sai Complex, Opp Mohata Devi Mandir, Bajaj Nagar, Waluj, Aurangabad",
+        "addr:postcode": "431136",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Soham Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2446252,
+          19.8439924
+        ]
+      },
+      "id": "node/7646344933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344934",
+        "addr:district": "Aurangabad",
+        "addr:full": "CIDCO Growth Center, Near MSEB Office and CIDCO Garden, Aurangabad",
+        "addr:postcode": "431136",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Mangesh Kadam Psychiatric Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.257378,
+          19.848107
+        ]
+      },
+      "id": "node/7646344934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344935",
+        "addr:district": "Aurangabad",
+        "addr:full": "Mohata Devi Mandir Road, MIDC, Bajaj Nagar, Waluj, Wadgaon Kolhati",
+        "addr:postcode": "431136",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mamta Memorial Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.243149,
+          19.84697
+        ]
+      },
+      "id": "node/7646344935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344937",
+        "addr:district": "Aurangabad",
+        "addr:full": "Jadhav Mandi, N 9, Cidco, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Aarogyam Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.356516,
+          19.903877
+        ]
+      },
+      "id": "node/7646344937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344941",
+        "addr:district": "Aurangabad",
+        "addr:full": "Paithan Road, Kanchanwadi, Aurangabad",
+        "addr:postcode": "431136",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Daiva-Bharti Accident Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.289988,
+          19.832759
+        ]
+      },
+      "id": "node/7646344941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344949",
+        "addr:district": "Aurangabad",
+        "addr:full": "Besides Nathseeds, Paithan Road, Itkheda, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Golden City Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2962154,
+          19.8479989
+        ]
+      },
+      "id": "node/7646344949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344950",
+        "addr:district": "Aurangabad",
+        "addr:full": "Swami Samarth Nagar, Opp Rose Bud School, CIDCO Waluj Mahanagar, Aurangabad",
+        "addr:postcode": "431133",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Samarth Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.248329,
+          19.852649
+        ]
+      },
+      "id": "node/7646344950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344951",
+        "addr:district": "Aurangabad",
+        "addr:full": "More Chowk, Waluj, Aurangabad",
+        "addr:postcode": "431136",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dhanvantri Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2466808,
+          19.8417197
+        ]
+      },
+      "id": "node/7646344951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344956",
+        "addr:district": "Aurangabad",
+        "addr:full": "Mayur Park Road, Kasthuri Nagar, Auditor Society, Opp S.B.O.A School, Harsul, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Patil Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.354752,
+          19.910703
+        ]
+      },
+      "id": "node/7646344956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344957",
+        "addr:district": "Aurangabad",
+        "addr:full": "Beed Bypass Road, Hamid Colony, MIDC, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Noble Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3081967,
+          19.854144
+        ]
+      },
+      "id": "node/7646344957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344959",
+        "addr:district": "Aurangabad",
+        "addr:full": "Pratap Chowk, Bajaj Nagar, Waluj, Aurangabad",
+        "addr:postcode": "431136",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ghrushneshwar Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2420637,
+          19.8409016
+        ]
+      },
+      "id": "node/7646344959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344963",
+        "addr:district": "Aurangabad",
+        "addr:full": "Rasheed pura, Jadhav Mandi, N 9, Shivaji Nagar, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Jaiswal Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.356934,
+          19.904161
+        ]
+      },
+      "id": "node/7646344963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344967",
+        "addr:district": "Aurangabad",
+        "addr:full": "Mayur Park Road, Opp SBOA School, Nath Nagar, Mhasoba Nagar, Harsul, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Aai Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3538367,
+          19.9099116
+        ]
+      },
+      "id": "node/7646344967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344968",
+        "addr:district": "Aurangabad",
+        "addr:full": "Maharana Pratap Chowk, Waluj, Aurangabad",
+        "addr:postcode": "431136",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shri Sai Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2418765,
+          19.8406435
+        ]
+      },
+      "id": "node/7646344968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344970",
+        "addr:district": "Aurangabad",
+        "addr:full": "CIDCO, Waluj Mahanagar, Waluj, Aurangabad",
+        "addr:postcode": "431136",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Waluj Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2579527,
+          19.847504
+        ]
+      },
+      "id": "node/7646344970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344979",
+        "addr:district": "Aurangabad",
+        "addr:full": "Jalgaon Road, Wholesale Market, Harsul, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Siddhivinayak Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3574886,
+          19.9049664
+        ]
+      },
+      "id": "node/7646344979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344981",
+        "addr:district": "Aurangabad",
+        "addr:full": "Jagruti High School Road, Dr Bhapkar Marg, Bansilal Nagar, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mahendrakar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3153645,
+          19.8654279
+        ]
+      },
+      "id": "node/7646344981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344984",
+        "addr:district": "Aurangabad",
+        "addr:full": "Chilkalthana, Aurangabad",
+        "addr:postcode": "431006",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "District Civil Hospital - Chikalthana",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.404213,
+          19.868367
+        ]
+      },
+      "id": "node/7646344984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344992",
+        "addr:district": "Aurangabad",
+        "addr:full": "Jalgaon Road, Sharad Hotel Chowk, Sudarshan Nagar, N 11, Cidco, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "AIMS Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3565412,
+          19.9048784
+        ]
+      },
+      "id": "node/7646344992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344993",
+        "addr:district": "Aurangabad",
+        "addr:full": "Waluj, Aurangaba",
+        "addr:postcode": "431136",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shri Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.241898,
+          19.8401929
+        ]
+      },
+      "id": "node/7646344993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344997",
+        "addr:district": "Aurangabad",
+        "addr:full": "Beed Bypass Road, Hamid Colony, MIDC, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Heena's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.307423,
+          19.855406
+        ]
+      },
+      "id": "node/7646344997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646344999",
+        "addr:district": "Aurangabad",
+        "addr:full": "More Chowk Road, More Chowk, Bajaj Nagar, Waluj, Aurangabad",
+        "addr:postcode": "431136",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shri Balaji Jivanjyot Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2464801,
+          19.83959
+        ]
+      },
+      "id": "node/7646344999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646345000",
+        "addr:district": "Aurangabad",
+        "addr:full": "Silk Mill Colony, MIDC, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Azim Shaikh Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3062433,
+          19.8562247
+        ]
+      },
+      "id": "node/7646345000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646345002",
+        "addr:district": "Aurangabad",
+        "addr:full": "Swabhagya Chowk, Jalgaon Road, Hudco, N 11, Cidco, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Medicity Hospital & ICU",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3552249,
+          19.907912
+        ]
+      },
+      "id": "node/7646345002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646345004",
+        "addr:district": "Aurangabad",
+        "addr:full": "Aurangabad Malegaon Road, Daulatabad",
+        "addr:postcode": "431115",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gajanan Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2084184,
+          19.9258795
+        ]
+      },
+      "id": "node/7646345004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646345011",
+        "addr:district": "Aurangabad",
+        "addr:full": "Waluj, Wadgaon Kolhati",
+        "addr:postcode": "431136",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Manik Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.24483,
+          19.844267
+        ]
+      },
+      "id": "node/7646345011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646345012",
+        "addr:district": "Aurangabad",
+        "addr:full": "Pratap Chowk, Bajaj Nagar, Waluj, Aurangabad",
+        "addr:postcode": "431136",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Vertex Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.241183,
+          19.840773
+        ]
+      },
+      "id": "node/7646345012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646345013",
+        "addr:district": "Aurangabad",
+        "addr:full": "Beed Bypass Road, Abrar Colony, MIDC, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Safa Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3083547,
+          19.8557766
+        ]
+      },
+      "id": "node/7646345013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646345015",
+        "addr:district": "Aurangabad",
+        "addr:full": "Saubhagya Chowk, Infront Of Sai Medicity Hospital, Sudarshan Nagar, N 11, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Jirvanakar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.35429,
+          19.907635
+        ]
+      },
+      "id": "node/7646345015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609343",
+        "addr:district": "Aurangabad",
+        "addr:full": "Rose Park, Majnu Hill Road, VIP Road, Ganesh Colony, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ikon Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3436304,
+          19.8956603
+        ]
+      },
+      "id": "node/7646609343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609344",
+        "addr:district": "Aurangabad",
+        "addr:full": "Police Station, Opp Jawahar Nagar, Chhatrapati Nagar, Vijay Nagar, Garkheda, Aurangabad",
+        "addr:postcode": "431009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Savaji Tupkari Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3489382,
+          19.8648138
+        ]
+      },
+      "id": "node/7646609344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609345",
+        "addr:district": "Aurangabad",
+        "addr:full": "Nagpur - Aurangabad - Mumbai Highway, Bhanudas Nagar, Mondha, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shivkala Netralay Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3317559,
+          19.8528194
+        ]
+      },
+      "id": "node/7646609345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609346",
+        "addr:district": "Aurangabad",
+        "addr:full": "Pawan Gas to Toplewallibai Road, New Osmanpura Road, Peer Bazar, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Vare ENT Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3281228,
+          19.8658084
+        ]
+      },
+      "id": "node/7646609346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609347",
+        "addr:district": "Aurangabad",
+        "addr:full": "Ramkrishna Nagar, Garkheda, Aurangabad",
+        "addr:postcode": "431009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shreeji Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.350369,
+          19.859075
+        ]
+      },
+      "id": "node/7646609347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609349",
+        "addr:district": "Aurangabad",
+        "addr:full": "Shah Bazar, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ghazala Maternity",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3389587,
+          19.8881313
+        ]
+      },
+      "id": "node/7646609349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609351",
+        "addr:district": "Aurangabad",
+        "addr:full": "Shrikrishna Nagar, Ulkanagari, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Paripurti Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3387164,
+          19.862957
+        ]
+      },
+      "id": "node/7646609351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609352",
+        "addr:district": "Aurangabad",
+        "addr:full": "Near Vardhman Patsanstha, Shivaji Nagar, MIDC, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Deshmukh Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3511796,
+          19.8542348
+        ]
+      },
+      "id": "node/7646609352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609353",
+        "addr:district": "Aurangabad",
+        "addr:full": "Disha Nagari, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Apsingkar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3283897,
+          19.8489532
+        ]
+      },
+      "id": "node/7646609353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609354",
+        "addr:district": "Aurangabad",
+        "addr:full": "Agnihotra Chowk, Ulkanagari, Ashok Nagar, Garkheda, Near Chetak Ghoda, Aurangabad",
+        "addr:postcode": "431009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Navdip Superspeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3432582,
+          19.8667603
+        ]
+      },
+      "id": "node/7646609354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609355",
+        "addr:district": "Aurangabad",
+        "addr:full": "Nutan Colony, Nirala Bazar, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Brain Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3282494,
+          19.8772088
+        ]
+      },
+      "id": "node/7646609355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609356",
+        "addr:district": "Aurangabad",
+        "addr:full": "Near Ramayna Cultural Hall, Opp Gaikwad Classes, Ashok Nagar, Garkheda, Aurangabad",
+        "addr:postcode": "431009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nawandar Accident Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.345904,
+          19.8661205
+        ]
+      },
+      "id": "node/7646609356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609357",
+        "addr:district": "Aurangabad",
+        "addr:full": "Shri Nagar Colony, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Narayanii Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.358509,
+          19.887866
+        ]
+      },
+      "id": "node/7646609357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609358",
+        "addr:district": "Aurangabad",
+        "addr:full": "Prabhu Shriram Small Mandir Road, Samarth Nagar, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Kasbekar Eye Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3212374,
+          19.8781684
+        ]
+      },
+      "id": "node/7646609358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609359",
+        "addr:district": "Aurangabad",
+        "addr:full": "VIP Road, Kileark, Near Civil Hospital, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gaikwad Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3296329,
+          19.8935161
+        ]
+      },
+      "id": "node/7646609359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609360",
+        "addr:district": "Aurangabad",
+        "addr:full": "Behind Dhanwantari Medical, Khadkeshwar, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "More Hospital & Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3218329,
+          19.8840757
+        ]
+      },
+      "id": "node/7646609360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609361",
+        "addr:district": "Aurangabad",
+        "addr:full": "Akashwani Road, Behind Reliance Smart Mall, Bhanudas Nagar, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sai Nursing Home Advance Laparoscopy & Infertility Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.345274,
+          19.87397
+        ]
+      },
+      "id": "node/7646609361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609362",
+        "addr:district": "Aurangabad",
+        "addr:full": "Shivdatta Housing Society, Cidco, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Narendra Vaidya's Colony Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.356722,
+          19.8882993
+        ]
+      },
+      "id": "node/7646609362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609363",
+        "addr:district": "Aurangabad",
+        "addr:full": "Motiwala Square, Jalna Road, Akashwani Chowk, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Asian Citicare Superspeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.345561,
+          19.875825
+        ]
+      },
+      "id": "node/7646609363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609364",
+        "addr:district": "Aurangabad",
+        "addr:full": "Shivaji Nagar Road, Sukhad Sahwas Nagar, Kasliwal Nagar, Garkheda, Aurangabad",
+        "addr:postcode": "431009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mathura Maternity and Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3477519,
+          19.8593767
+        ]
+      },
+      "id": "node/7646609364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609365",
+        "addr:district": "Aurangabad",
+        "addr:full": "Central Naka Road, Motiwala Nagar, Indira Nagar, Kiradpura, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "International Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3531236,
+          19.8797019
+        ]
+      },
+      "id": "node/7646609365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609366",
+        "addr:district": "Aurangabad",
+        "addr:full": "Beside Fame Tapdiya Multiplex And Prozone Mall, Town Center, Cidco, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Kulkarni Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3678618,
+          19.8790029
+        ]
+      },
+      "id": "node/7646609366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609367",
+        "addr:district": "Aurangabad",
+        "addr:full": "Jalna Road, Sant Eknath Housing Society, Kailash Nagar, Mondha, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Antarang Neuropsychiatry Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.344064,
+          19.87804
+        ]
+      },
+      "id": "node/7646609367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609369",
+        "addr:district": "Aurangabad",
+        "addr:full": "Kamgar Chowk, Prabodhankar Thakare Nagar, Cidco, Aurangabad",
+        "addr:postcode": "431007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Matoshri Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3671275,
+          19.8661013
+        ]
+      },
+      "id": "node/7646609369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609370",
+        "addr:district": "Aurangabad",
+        "addr:full": "Shriganesh Nagar, D Royal Co Operative Housing Society, N-8, Cidco, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Aniket Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.35443,
+          19.8918864
+        ]
+      },
+      "id": "node/7646609370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609371",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plot No.16, N/12, Sector F, Near SBH Bank, Himayat Bagh, Cidco, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "The Pacific Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3417861,
+          19.9036065
+        ]
+      },
+      "id": "node/7646609371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609372",
+        "addr:district": "Aurangabad",
+        "addr:full": "New Bhajipura, Indira Nagar Road, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Noor Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3509272,
+          19.8828829
+        ]
+      },
+      "id": "node/7646609372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609373",
+        "addr:district": "Aurangabad",
+        "addr:full": "Nutan Colony, Nirala Bazar, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dhule Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3253297,
+          19.8761182
+        ]
+      },
+      "id": "node/7646609373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609375",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plot No.8, Town Centre, 1, Sector C, N 1, Cidco, Aurangabad",
+        "addr:postcode": "431006",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Keley ENT Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3677443,
+          19.8772395
+        ]
+      },
+      "id": "node/7646609375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609376",
+        "addr:district": "Aurangabad",
+        "addr:full": "Shivaji Nagar Road, Sara Raaj Nagar, Garkheda, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ghule Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3509282,
+          19.8535647
+        ]
+      },
+      "id": "node/7646609376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609377",
+        "addr:district": "Aurangabad",
+        "addr:full": "Near Chetak Ghoda, Jai Vishwabharati Colony, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shankar Chest Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.341873,
+          19.8679814
+        ]
+      },
+      "id": "node/7646609377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609378",
+        "addr:district": "Aurangabad",
+        "addr:full": "Opp. Aurangabad Gymkhana, Sanjay Nagar, N 2, Mukundwadi, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Indos Hospital and Trauma Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3789569,
+          19.872011
+        ]
+      },
+      "id": "node/7646609378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609379",
+        "addr:district": "Aurangabad",
+        "addr:full": "Disha Nagari, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bebde Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.322058,
+          19.8485202
+        ]
+      },
+      "id": "node/7646609379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609380",
+        "addr:district": "Aurangabad",
+        "addr:full": "Dr YS Khedkar Marg, N-6, Cidco, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "YSK Superspeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3598252,
+          19.879315
+        ]
+      },
+      "id": "node/7646609380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609381",
+        "addr:district": "Aurangabad",
+        "addr:full": "PWD Colony, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Alpine Superspeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.324442,
+          19.8523762
+        ]
+      },
+      "id": "node/7646609381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609382",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plot No 2, Jalna Road, Shriniketan Colony, Rokda Hanuman Colony, Mondha, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dhanvantari Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.335387,
+          19.876189
+        ]
+      },
+      "id": "node/7646609382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609383",
+        "addr:district": "Aurangabad",
+        "addr:full": "Garkheda Road, Karyalay, Near Gajanan Mandir, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Aditya Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3493271,
+          19.8666936
+        ]
+      },
+      "id": "node/7646609383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609385",
+        "addr:district": "Aurangabad",
+        "addr:full": "New Balaji Nagar, Sara Raaj Nagar, Garkheda, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nirmal Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3542636,
+          19.8532017
+        ]
+      },
+      "id": "node/7646609385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609386",
+        "addr:district": "Aurangabad",
+        "addr:full": "Kamgar Chowk, Prabodhankar Thakare Nagar, Sector N 4, Cidco, Aurangabad",
+        "addr:postcode": "431007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Palwe Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3674641,
+          19.8667355
+        ]
+      },
+      "id": "node/7646609386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609388",
+        "addr:district": "Aurangabad",
+        "addr:full": "Radha Krishna Tower, Amdar Road, High Court Colony, Sangram Nagar, Aurangabad",
+        "addr:postcode": "431010",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gadekar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.334713,
+          19.84456
+        ]
+      },
+      "id": "node/7646609388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609390",
+        "addr:district": "Aurangabad",
+        "addr:full": "N3-88, Parimal Housing Society, N 3, Cidco, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sainath Accident and Orthopaedic Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.359963,
+          19.8720324
+        ]
+      },
+      "id": "node/7646609390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609391",
+        "addr:district": "Aurangabad",
+        "addr:full": "Shri Nagar Colony, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ramkrishna Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3605764,
+          19.8871691
+        ]
+      },
+      "id": "node/7646609391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609393",
+        "addr:district": "Aurangabad",
+        "addr:full": "Samarth Nagar, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Amey Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3208368,
+          19.8788416
+        ]
+      },
+      "id": "node/7646609393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609395",
+        "addr:district": "Aurangabad",
+        "addr:full": "Kamgar Chowk, N 3, Cidco, Aurangabad",
+        "addr:postcode": "431007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Noble Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3664069,
+          19.8696842
+        ]
+      },
+      "id": "node/7646609395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609396",
+        "addr:district": "Aurangabad",
+        "addr:full": "Naregaon Road, Near Garware Stadium, Chilkalthana, MIDC, Aurangabad",
+        "addr:postcode": "431006",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "E.S.I.S. Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3686856,
+          19.8865027
+        ]
+      },
+      "id": "node/7646609396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609399",
+        "addr:district": "Aurangabad",
+        "addr:full": "Darga To Stadium Road, Gurukrupa Housing Society, Garkheda Area, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Ashirvad Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.340133,
+          19.858364
+        ]
+      },
+      "id": "node/7646609399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609400",
+        "addr:district": "Aurangabad",
+        "addr:full": "Central Bus Stand Road, Pushpa Nagari, Behind Shakti Sahkar Building, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Raghvendra Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3163206,
+          19.8781022
+        ]
+      },
+      "id": "node/7646609400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609401",
+        "addr:district": "Aurangabad",
+        "addr:full": "N2, Jalna Road, Ram Nagar, Sector 8, Cidco, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mamta Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3833999,
+          19.8712041
+        ]
+      },
+      "id": "node/7646609401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609402",
+        "addr:district": "Aurangabad",
+        "addr:full": "Jalna Road, Manjeet Nagar, Kailash Nagar, Mondha, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Baheti Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3448183,
+          19.8778592
+        ]
+      },
+      "id": "node/7646609402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609403",
+        "addr:district": "Aurangabad",
+        "addr:full": "Shivajinagar Main Road, Railway Gate, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shree Venkatesh Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.351814,
+          19.8521087
+        ]
+      },
+      "id": "node/7646609403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609404",
+        "addr:district": "Aurangabad",
+        "addr:full": "Mujib Colony, Sharif Colony, Yunus Colony, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sabahat Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3454225,
+          19.8913089
+        ]
+      },
+      "id": "node/7646609404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609406",
+        "addr:district": "Aurangabad",
+        "addr:full": "Kamgar Chowk, Prabodhankar Thakare Nagar, N 2, Cidco, Aurangabad",
+        "addr:postcode": "431007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Synergy Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3673627,
+          19.8680907
+        ]
+      },
+      "id": "node/7646609406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609407",
+        "addr:district": "Aurangabad",
+        "addr:full": "Satya Dharma Complex, Akashwani, Jalana Road, Near Atul Honda, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Hormone Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.345899,
+          19.876793
+        ]
+      },
+      "id": "node/7646609407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609408",
+        "addr:district": "Aurangabad",
+        "addr:full": "Pundlik Nagar Road, Near Tirumala Mangal Karyalay, Hanuman Nagar, Garkheda, Aurangabad",
+        "addr:postcode": "431009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Prachi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3564848,
+          19.8655006
+        ]
+      },
+      "id": "node/7646609408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609409",
+        "addr:district": "Aurangabad",
+        "addr:full": "Sut Girni Road, Near Hanuman Temple, Moti Nagar, Garkhed Parisar, Aurangabad",
+        "addr:postcode": "431007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nandini Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3534719,
+          19.8533524
+        ]
+      },
+      "id": "node/7646609409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609410",
+        "addr:district": "Aurangabad",
+        "addr:full": "Shrikrishna Nagar, Ulkanagari, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Venkatesh Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3382159,
+          19.8609132
+        ]
+      },
+      "id": "node/7646609410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609411",
+        "addr:district": "Aurangabad",
+        "addr:full": "Jalna Road, Jlal Colony, Vidya Nagar, M G M, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "M.G.M. Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.354164,
+          19.877895
+        ]
+      },
+      "id": "node/7646609411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609412",
+        "addr:district": "Aurangabad",
+        "addr:full": "Near Kali Masjid, Labar Colony, Shah Bazar, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Rashid's Children Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3395746,
+          19.8884334
+        ]
+      },
+      "id": "node/7646609412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609413",
+        "addr:district": "Aurangabad",
+        "addr:full": "Savarkar Chowk, Samarth Nagar, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Borikar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3227074,
+          19.877567
+        ]
+      },
+      "id": "node/7646609413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609414",
+        "addr:district": "Aurangabad",
+        "addr:full": "Ashok Nagar, Ulkanagari, Aurangabad",
+        "addr:postcode": "431009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nirmiti Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.347996,
+          19.8661953
+        ]
+      },
+      "id": "node/7646609414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609415",
+        "addr:district": "Aurangabad",
+        "addr:full": "Jalna Road, Motiwala Nagar, Venkatesh Nagar, M G M, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Krishna Hospital and ICU",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3364942,
+          19.8760553
+        ]
+      },
+      "id": "node/7646609415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609416",
+        "addr:district": "Aurangabad",
+        "addr:full": "Amer Complex, Near Jinsi Police Station Road, Kaiser Colony, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Citizen Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3407793,
+          19.8852508
+        ]
+      },
+      "id": "node/7646609416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609417",
+        "addr:district": "Aurangabad",
+        "addr:full": "Kat Kat Gate Road, Near Arish Masjid, Younus Colony, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Imran's Children Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3433833,
+          19.8915171
+        ]
+      },
+      "id": "node/7646609417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609418",
+        "addr:district": "Aurangabad",
+        "addr:full": "Central Naka Road, Near VIP Function Hall, Rahemania Colony, Jaswantpura, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Care Multispeciality and Children Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3506697,
+          19.8852615
+        ]
+      },
+      "id": "node/7646609418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609419",
+        "addr:district": "Aurangabad",
+        "addr:full": "Opposite Tapadia Park, Kamgar Chowk, Sector N 4, Cidco, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shubham Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3661363,
+          19.8661075
+        ]
+      },
+      "id": "node/7646609419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609420",
+        "addr:district": "Aurangabad",
+        "addr:full": "Near CIDCO Bus Stand Square, Opp Hotel Deepali, N 3, Cidco, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Diwan Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3666764,
+          19.8728815
+        ]
+      },
+      "id": "node/7646609420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609421",
+        "addr:district": "Aurangabad",
+        "addr:full": "Vijay Nagar Road, Deep Nagar, Garkheda, Opp Aadinath Nagar, Aurangabad",
+        "addr:postcode": "431009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Kpond Children's Superspeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.349676,
+          19.863838
+        ]
+      },
+      "id": "node/7646609421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609422",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plot No:6, CIDCO, N-2, Sector -A, Ram Nagar Corner, Jalna Road, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Life Multispeciality Hospital & Trauma Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3840046,
+          19.8716312
+        ]
+      },
+      "id": "node/7646609422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609423",
+        "addr:district": "Aurangabad",
+        "addr:full": "Darga Road, Near Osmanpura, State Bank Colony, S.B.H. Colony, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Renuka Nursing Home & Children Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.328093,
+          19.862187
+        ]
+      },
+      "id": "node/7646609423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609424",
+        "addr:district": "Aurangabad",
+        "addr:full": "Sandesh Nagar, Vidya Nagar, Nyay Nagar, Aurangabad",
+        "addr:postcode": "431009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shraddha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3529096,
+          19.8711656
+        ]
+      },
+      "id": "node/7646609424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609425",
+        "addr:district": "Aurangabad",
+        "addr:full": "148, Main Road, N-3, Sector N 4, Cidco, Aurangabad",
+        "addr:postcode": "431009",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Daulat Memorial Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3618702,
+          19.8704782
+        ]
+      },
+      "id": "node/7646609425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609426",
+        "addr:district": "Aurangabad",
+        "addr:full": "First Floor, Gurukrupa Chambers, Samarth Nagar, Opposite UCO BANK, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bohra E.N.T. Hospital & Laser Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3220684,
+          19.8781146
+        ]
+      },
+      "id": "node/7646609426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609427",
+        "addr:district": "Aurangabad",
+        "addr:full": "Bhagyanagar, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Jinturkar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3184566,
+          19.8756685
+        ]
+      },
+      "id": "node/7646609427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609428",
+        "addr:district": "Aurangabad",
+        "addr:full": "Osmanpura, Behind Gurudwara Ground, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Sodhi's Kewal Care Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.327317,
+          19.868971
+        ]
+      },
+      "id": "node/7646609428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609429",
+        "addr:district": "Aurangabad",
+        "addr:full": "Pushpa Nagari, Aurangabad",
+        "addr:postcode": "431002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Gharpure Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.316951,
+          19.877623
+        ]
+      },
+      "id": "node/7646609429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609430",
+        "addr:district": "Aurangabad",
+        "addr:full": "Shop No. 7, Plot No. 7, Ram Nagar Chowk, Ram Nagar, N 2, Cidco, Aurangabad",
+        "addr:postcode": "431007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Govindraj Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3840033,
+          19.8714029
+        ]
+      },
+      "id": "node/7646609430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609431",
+        "addr:district": "Aurangabad",
+        "addr:full": "Ulkanagari, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "United CIiigma Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.335999,
+          19.8589312
+        ]
+      },
+      "id": "node/7646609431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609432",
+        "addr:district": "Aurangabad",
+        "addr:full": "Near Akashwani Square, Manjeet Nagar, Kailash Nagar, Mondha, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bhartiya Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.344452,
+          19.877343
+        ]
+      },
+      "id": "node/7646609432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609433",
+        "addr:district": "Aurangabad",
+        "addr:full": "Maharana Pratap Road, Near Renuka Mata Kaman, Satara Deolai Parisar, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mi & Mummy Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.338467,
+          19.84737
+        ]
+      },
+      "id": "node/7646609433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609434",
+        "addr:district": "Aurangabad",
+        "addr:full": "Opp.Chistiya Police Chowki, Gulmohar Colony, Sahyadri Nagar, Cidco, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Vedant Children Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3606894,
+          19.8802419
+        ]
+      },
+      "id": "node/7646609434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609435",
+        "addr:district": "Aurangabad",
+        "addr:full": "Thakre Nagar Area, Mayanagar, CIDCO, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dande Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3672641,
+          19.8726497
+        ]
+      },
+      "id": "node/7646609435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609436",
+        "addr:district": "Aurangabad",
+        "addr:full": "Gas Agency, Amdar Road, Satara, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Shruti Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3349901,
+          19.8453326
+        ]
+      },
+      "id": "node/7646609436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609437",
+        "addr:district": "Aurangabad",
+        "addr:full": "Khadkeshwar, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Pendkar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.320901,
+          19.8867728
+        ]
+      },
+      "id": "node/7646609437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609438",
+        "addr:district": "Aurangabad",
+        "addr:full": "Indira Nagar, M G M, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Fatima Maternity and Surgical Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3497465,
+          19.8849653
+        ]
+      },
+      "id": "node/7646609438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609439",
+        "addr:district": "Aurangabad",
+        "addr:full": "Jinsi, Shahgunj, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Kelgaokar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3400742,
+          19.8853567
+        ]
+      },
+      "id": "node/7646609439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609440",
+        "addr:district": "Aurangabad",
+        "addr:full": "Beside Hotel Dashmesh, Near Bajrang Chowk, Aurangabad",
+        "addr:postcode": "431003",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Chirayu Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3606367,
+          19.886555
+        ]
+      },
+      "id": "node/7646609440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609441",
+        "addr:district": "Aurangabad",
+        "addr:full": "Plot No 20, Antarang Building, Tilak Nagar, Sawarkar Chowk, Aurangabad",
+        "addr:postcode": "431005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Satarkar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3374503,
+          19.8673674
+        ]
+      },
+      "id": "node/7646609441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609442",
+        "addr:district": "Aurangabad",
+        "addr:full": "Khivansara Park, Siddhi Vinak Road, Garkheda Area, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Dr. Jyoti Mahadik Private Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3414684,
+          19.8632626
+        ]
+      },
+      "id": "node/7646609442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609443",
+        "addr:district": "Aurangabad",
+        "addr:full": "Beed Bypass Road, Opp Prashant Hotel, Darshan Vihar Colony, Mirajgave Nagari, Aurangabad",
+        "addr:postcode": "431002",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Deshmukh Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3490957,
+          19.8507996
+        ]
+      },
+      "id": "node/7646609443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609444",
+        "addr:district": "Aurangabad",
+        "addr:full": "Sadashiv Nagar, Ram Nagar, Cidco, Aurangabad",
+        "addr:postcode": "431007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Nilkanth Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3857727,
+          19.8709004
+        ]
+      },
+      "id": "node/7646609444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7646609445",
+        "addr:district": "Aurangabad",
+        "addr:full": "Jalna Road, Opposite Akashwani, Manjeet Nagar, Aurangabad",
+        "addr:postcode": "431001",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Sharma Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3444914,
+          19.8784502
+        ]
+      },
+      "id": "node/7646609445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7679297650",
+        "addr:district": "Aurangabad",
+        "addr:full": "Pandharpur",
+        "addr:postcode": "431136",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Government Hospital, Pandharpur",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2498534,
+          19.8328142
+        ]
+      },
+      "id": "node/7679297650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7682302221",
+        "addr:district": "Aurangabad",
+        "addr:full": "Kaiser Colony, Shahgunj",
+        "addr:postcode": "431003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Government Hospital, Kaiser Colony",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3451811,
+          19.8870557
+        ]
+      },
+      "id": "node/7682302221"
+    }
+  ]
+}
