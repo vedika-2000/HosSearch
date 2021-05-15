@@ -1,7 +1,8 @@
 # HosSearch
-----
 
-#### A geo-informatics project that suggests and recommends nearby hospitals to an user based on their current location. 
+### A geo-informatics project that suggests and recommends nearby hospitals to an user based on their current location. 
+
+----
 
 Tech Stack:
 - HTML
